@@ -14,7 +14,7 @@ description              : "contact network epidemiology in wild lemurs"
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aperofsky/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/IMG_5722.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
