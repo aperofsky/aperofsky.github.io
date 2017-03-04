@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Amanda Perofsky"
   avatar           : "/assets/images/DSC_4923.jpg"
-  bio              : "_PhD Candidate in Integrative Biology at The University of Texas at Austin_"
+  bio              : _"PhD Candidate in Integrative Biology at The University of Texas at Austin"_
   location         : "Austin, Texas, USA"
   email            : "aperofsky@utexas.edu"
   uri              :
