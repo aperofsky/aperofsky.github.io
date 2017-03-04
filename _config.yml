@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : 
 title_separator          : "-"
 name                     : "Amanda Perofsky"
-description              : #"PhD Candidate in Integrative Biology at The University of Texas at Austin"
+description              : "contact network epidemiology in wild lemurs"
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "aperofsky"
+repository               : "aperofsky/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,23 +78,23 @@ analytics:
 # Site Author
 author:
   name             : "Amanda Perofsky"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate, Ecology, Evolution, & Behavior Graduate Program, The University of Texas at Austin"
+  avatar           : "/assets/images/DSC_4923.jpg"
+  bio              : "PhD Candidate in Integrative Biology at The University of Texas at Austin"
   location         : "Austin, Texas, USA"
-  email            :
+  email            : "aperofsky@utexas.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : "snaggleraggle"
   facebook         :
   foursquare       :
-  github           :
+  github           : "aperofsky"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "amandaperofsky"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -174,7 +174,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
 
 # Plugins
