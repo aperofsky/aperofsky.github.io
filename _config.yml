@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : "Amanda Perofsky"
-description              : "contact network epidemiology in wild lemurs"
+description              : quantitative disease ecologist studying contact network epidemiology in wild lemurs
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aperofsky/minimal-mistakes"
