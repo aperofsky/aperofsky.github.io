@@ -8,6 +8,7 @@ tagline: ""
 
 ## In preparation 
 - Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. **A. C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers
+- Gut microbiome diversity across sympatric animal populations reflects diet, habitat use, and host phylogeny. **A. C. Perofsky**, R.J. Lewis, L.A. Meyers
 
 ## Published
 
