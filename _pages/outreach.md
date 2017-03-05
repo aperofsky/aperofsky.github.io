@@ -4,7 +4,7 @@ title : Science Outreach
 permalink: /outreach/
 ---
 
-Cohost of **[They Blinded Me With Science]** (https://www.facebook.com/tbmwskvrx), a weekly educational program on [KVRX 91.7 FM](http://kvrx.org/) that features guest researchers and discussion of current publications.
+Cohost of **[They Blinded Me With Science]** (https://www.facebook.com/tbmwskvrx), a weekly educational program on [KVRX 91.7 FM](http://kvrx.org/) that features guest researchers and discussion of current publications. I recruit guests, conduct interviews, and produce podcasts that are available for download on [here] (http://tbmws.podbean.com/ and iTunes. 
 
 Volunteer for **[Science Under the Stars]**(https://scienceunderthestars.org/), a monthly, public outdoor lecture series founded and organized by graduate students in the Department of Integrative Biology at UT-Austin.
 
