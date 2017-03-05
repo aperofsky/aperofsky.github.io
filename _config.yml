@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : 
 title_separator          : "-"
 name                     : "Amanda Perofsky"
-description              : "contact network epidemiology in wild lemurs"
+description              : contact network epidemiology in wild lemurs
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aperofsky/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Amanda Perofsky"
   avatar           : "/assets/images/DSC_4923.jpg"
-  bio              : _"PhD Candidate in Integrative Biology at The University of Texas at Austin"_
+  bio              : "PhD Candidate in Integrative Biology at The University of Texas at Austin"
   location         : "Austin, Texas, USA"
   email            : "aperofsky@utexas.edu"
   uri              :
