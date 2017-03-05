@@ -12,7 +12,7 @@ PhD Candidate <br>
 
 I am currently a sixth-year PhD student in the [Ecology, Evolution, and Behavior](https://www.cns.utexas.edu/eeb-graduate-program) program at The University of Texas at Austin advised by [Dr. Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/).
 
-My research uses epidemiological modeling, field observations, and molecular analyses to gain insight into the temporal dynamics of contact networks in group-living wildlife and their impacts on the spread of intestinal bacteria, with particular focus on an endangered primate species, Verreaux’s sifaka (_Propithecus verreauxi_).
+My research uses math and statistical modeling, field observations, and molecular analyses to gain insight into the temporal dynamics of contact networks in group-living wildlife and their impacts on the spread of intestinal bacteria, with particular focus on an endangered primate species, Verreaux’s sifaka (_Propithecus verreauxi_).
 
 
 ### Background
