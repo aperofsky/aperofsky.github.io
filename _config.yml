@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : "Amanda Perofsky"
-description              : quantitative disease ecologist studying contact network epidemiology in wild lemurs
+description              : quantitative disease ecologist, contact network epidemiology in wild lemurs
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aperofsky/minimal-mistakes"
@@ -29,7 +29,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Amanda Perofsky', 'aperofsky@utexas.edu', 'url', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "master"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -80,7 +80,7 @@ author:
   name             : "Amanda Perofsky"
   avatar           : "/assets/images/DSC_4923.jpg"
   bio              : "PhD Candidate in Integrative Biology at The University of Texas at Austin"
-  location         : "Austin, Texas, USA"
+  location         : "Austin, Texas"
   email            : "aperofsky@utexas.edu"
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "snaggleraggle"
   vine             :
   weibo            :
   xing             :
@@ -227,11 +227,15 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: []
+  endings: []
   ignore:
-    envs: development
+    envs: []
+  blanklines: true
+  profile: false
+  startings: []
 
-
-# Defaults
+# Default values
 defaults:
   # _posts
   - scope:
@@ -241,13 +245,13 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
-      # _pages
-      - scope:
-        path: ""
-        type: pages
-      values:
-        layout: single
-        author_profile: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
