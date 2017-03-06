@@ -4,12 +4,12 @@ layout: single
 excerpt: "Bio."
 sitemap: true
 permalink: /about/
-#header:
- # image: estonia-lake.jpg
-  #caption: "Camping in Estonia"
+header:
+  image: "/assets/images/IMG_5722.jpg"
+  caption: "Verreaux's sifaka in Kirindy Mitea NP, Madagascar"
 ---
 
-<img style="float: right;" src="{{site.baseurl}}/assets/images/DSC_4923.jpg" style="width: 200px;">
+
 
 ## Amanda C. Perofsky
 PhD Candidate <br>
