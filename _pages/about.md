@@ -8,7 +8,7 @@ permalink: /about/
 
 header:
   image: "/assets/images/IMG_4914.jpg"
-  caption: "Glen Canyon, AZ"
+  caption: "Glen Canyon, Arizona"
 ---
 
 ## Amanda C. Perofsky
