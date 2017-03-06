@@ -2,7 +2,7 @@
 title: "Home"
 layout: single
 excerpt: "Home"
-sitemap: true
+sitemap: false
 permalink: /
 author_profile: true
 ---
