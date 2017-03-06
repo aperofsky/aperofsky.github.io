@@ -4,9 +4,6 @@ layout: single
 excerpt: "STEM Outreach"
 sitemap: true
 permalink: /outreach/
-#header:
- # image: estonia-lake.jpg
-  #caption: "Camping in Estonia"
 ---
 
 Cohost of [They Blinded Me With Science](https://www.facebook.com/tbmwskvrx), a weekly educational program on [KVRX 91.7 FM](http://kvrx.org/) that features guest researchers and discussion of current publications. I recruit guests, conduct interviews, and produce podcasts that are available for download on [Podbean](http://tbmws.podbean.com/) and [iTunes](https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2). 
