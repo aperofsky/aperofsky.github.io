@@ -1,10 +1,10 @@
 ---
 title: "Amanda Perofsky's CV"
-excerpt: "Amanda Perofsky's CV"
 layout: single
+excerpt: "Amanda Perofsky's CV"
 sitemap: true
-permalink: /CV/
 author_profile: true
+permalink: /CV/
 ---
 
 <iframe src="/assets/amanda_perofsky_cv_2017.pdf" width="100%" height="100%">
