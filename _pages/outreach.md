@@ -8,7 +8,7 @@ author_profile: true
 
 header:
   image: "/assets/images/DSC_4924.jpg"
-  caption: "TBMwS Hosts, Fall 2016. Credit: Ian Wright"
+  caption: "Hosts of "They Blinded Me with Science", Fall 2016. Credit: Ian M. Wright"
 ---
 
 Co-host of [They Blinded Me With Science](https://www.facebook.com/tbmwskvrx), a weekly educational program on [KVRX 91.7 FM](http://kvrx.org/) that features guest researchers and discussion of current publications. I recruit guests, conduct interviews, and produce podcasts that are available for download on [Podbean](http://tbmws.podbean.com/) and [iTunes](https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2). 

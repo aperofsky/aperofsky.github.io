@@ -1,14 +1,13 @@
 ---
 title: "Research"
 layout: single
-excerpt: "Research"
 sitemap: true
 author_profile: true
 permalink: /research/
 
 header:
   image: "/assets/images/IMG_5722.jpg"
-  caption: "Verreaux's sifaka in Kirindy Mitea NP, Madagascar. Credit: Amanda Perofsky"
+  caption: "Verreaux's sifaka at Ankoatsifaka Research Station in Kirindy Mitea National Park, Madagascar. Credit: Amanda Perofsky"
 ---
 
 

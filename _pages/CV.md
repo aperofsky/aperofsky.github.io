@@ -1,7 +1,6 @@
 ---
-title: "CV"
+title: "Amanda Perofsky's CV"
 layout: single
-excerpt: "Amanda Perofsky's CV"
 sitemap: true
 permalink: /CV/
 author_profile: true
