@@ -7,8 +7,8 @@ author_profile: true
 permalink: /about/
 
 header:
-  image: "/assets/images/IMG_7454.jpg"
-  caption: "Verreaux's sifaka in Kirindy Mitea NP, Madagascar. Photo: A. Perofsky"
+  image: "/assets/images/IMG_4914.jpg"
+  caption: "Glen Canyon, AZ"
 ---
 
 ## Amanda C. Perofsky
