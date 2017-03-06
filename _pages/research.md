@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 layout: single
 sitemap: true
 author_profile: true
