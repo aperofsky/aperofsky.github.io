@@ -3,13 +3,13 @@ title: "About"
 layout: single
 excerpt: "Bio."
 sitemap: true
+author_profile: true
 permalink: /about/
+
 header:
-  image: "/assets/images/IMG_5722.jpg"
+  image: "/assets/images/IMG_7454.jpg"
   caption: "Verreaux's sifaka in Kirindy Mitea NP, Madagascar. Photo: A. Perofsky"
 ---
-
-
 
 ## Amanda C. Perofsky
 PhD Candidate <br>

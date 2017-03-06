@@ -4,7 +4,7 @@ layout: single
 excerpt: "Publications"
 sitemap: true
 permalink: /publications/
-
+author_profile: true
 ---
 
 ## In preparation 
