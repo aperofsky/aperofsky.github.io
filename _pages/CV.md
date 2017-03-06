@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Amanda Perofsky's CV"
 layout: single
 excerpt: "CV"
 sitemap: true
