@@ -4,9 +4,7 @@ layout: single
 excerpt: "Publications"
 sitemap: true
 permalink: /publications/
-#header:
- # image: estonia-lake.jpg
-  #caption: "Camping in Estonia"
+
 ---
 
 ## In preparation 

@@ -13,6 +13,9 @@ header:
 
 ## Amanda C. Perofsky
 PhD Candidate <br>
+Ecology, Evolution, and Behavior Graduate Program <br>
+Department of Integrative Biology <br>
+The University of Texas at Austin <br>
 <aperofsky@utexas.edu>
 
 I am currently a sixth-year PhD student in the [Ecology, Evolution, and Behavior](https://www.cns.utexas.edu/eeb-graduate-program) program at The University of Texas at Austin advised by [Dr. Lauren Ancel Meyers](http://www.bio.utexas.edu/research/meyers/). 
