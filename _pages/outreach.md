@@ -5,10 +5,6 @@ excerpt: "Outreach"
 sitemap: true
 author_profile: true
 permalink: /outreach/
-
-header:
-	image: "/assets/images/DSC_4924.jpg"
-  	caption: "Hosts of "They Blinded Me with Science", Fall 2016. Credit: Ian M. Wright"
 ---
 
 ## STEM Outreach & Education
