@@ -7,7 +7,7 @@ permalink: /outreach/
 author_profile: true
 
 header:
-  feature: "/assets/images/DSC_4924.jpg"
+  image: "/assets/images/DSC_4924.jpg"
   caption: "TBMwS Hosts, Fall 2016"
   credit: "Ian Wright"
 ---
