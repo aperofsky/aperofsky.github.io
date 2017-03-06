@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda Perofsky"
+title                    : "Amanda C. Perofsky"
 title_separator          : "-"
-name                     : "Amanda Perofsky"
+name                     : "Amanda C. Perofsky"
 description              : quantitative disease ecologist, contact network epidemiology in wild lemurs
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
