@@ -6,7 +6,6 @@ sitemap: false
 permalink: /
 author_profile: true
 ---
-## Home
 
 I'm a PhD candidate in [Dr. Lauren Ancel Meyer's research group](http://www.bio.utexas.edu/research/meyers/) at The University of Texas at Austin.<br>
 
