@@ -7,4 +7,6 @@ permalink: /CV/
 author_profile: true
 ---
 
-<embed src="/assets/amanda_perofsky_cv_2017.pdf" width="500" height="375" type='application/pdf' title='Amanda Perofsky's CV'>
+<iframe src="/assets/amanda_perofsky_cv_2017.pdf" width="100%" height="100%">
+This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/amanda_perofsky_cv_2017.pdf">Download PDF</a>
+</iframe>
