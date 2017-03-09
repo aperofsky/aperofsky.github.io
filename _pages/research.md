@@ -13,7 +13,7 @@ gallery:
   - url: /assets/images/IMG_6194_small.jpg
     image_path: /assets/images/IMG_6194_small.jpg
     alt: "grooming"
-    title: "Sifaka allogrooming at Ankoatsifaka Research Station. "
+    title: "Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park. Sifaka regularly groom one another with their toothcombs and tongues to remove ectoparasites. Photo credit: Amanda Perofsky"
 
 header:
   image: "/assets/images/IMG_5722.jpg"
@@ -23,7 +23,7 @@ header:
 
 Infectious diseases in non-human primates are a major conservation and public health concern as many species approach extinction and the threat of zoonotic emergence grows. However, our ability to assess disease risk and to detect and mitigate disease outbreaks in wildlife populations is hampered by insufficient access to data and a relatively limited understanding of disease emergence and dynamics. My research aims to address these challenges by focusing on an endangered lemur species, Verreaux’s sifaka, inhabiting Kirindy Mitea National Park in western Madagascar. Many diurnal primates live in social groups with individuals typically interacting frequently and intimately within their own group and rarely with individuals outside of their group. The resulting dynamic and hierarchical contact patterns constrain disease transmission and fundamentally determine the fate of outbreaks. By coupling rich behavioral and bacteriological data with methods from network theory, I am building extensible and predictive models linking two underlying factors—social behavior and proximity to other species—to disease risk. This work is in close collaboration with [Dr. Rebecca J. Lewis](http://liberalarts.utexas.edu/anthropology/faculty/profile.php?id=rl2273) (Department of Anthropology, University of Texas at Austin), the director of Ankoatsifaka Research Station and the [Sifaka Research Project](http://labs.la.utexas.edu/ankoatsifaka/sifaka-research-project/). 
 
-{% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture. Right: Two sifaka allogrooming at Ankoatsifaka Research Station." %}
+{% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture in 2016. Right: Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park." %}
 
 ## Projects
 
