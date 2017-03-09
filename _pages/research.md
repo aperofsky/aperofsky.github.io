@@ -9,7 +9,7 @@ gallery:
   - url: /assets/images/IMG_3024_small.jpg
     image_path: /assets/images/IMG_3024_small.jpg
     alt: "captured sifaka"
-    title: "Amanda Perofsky holding a sedated Verraux’s sifaka in 2016. The Sifaka Research Project at Ankoatsifaka Research Station captures animals periodically to mark them with collars, monitor health, and collect genetic material"
+    title: "Amanda Perofsky holding a sedated Verraux’s sifaka during the Sifaka Research Project's annual capture in 2016. The Sifaka Research Project at Ankoatsifaka Research Station captures animals periodically to mark them with collars, to monitor health, and to collect genetic material."
   - url: /assets/images/IMG_6194_small.jpg
     image_path: /assets/images/IMG_6194_small.jpg
     alt: "grooming"
