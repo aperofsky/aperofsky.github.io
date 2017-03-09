@@ -7,6 +7,9 @@ author_profile: true
 permalink: /CV/
 ---
 
-<iframe src="/assets/amanda_perofsky_cv_2017.pdf" width="100%" height="100%">
-This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/amanda_perofsky_cv_2017.pdf">Download PDF</a>
-</iframe>
+ <object data="/assets/amanda_perofsky_cv_2017.pdf" type="application/pdf" width="100%" height="800px"> 
+  <p>It appears you don't have a PDF plugin for this browser.
+   You can <a href="/assets/amanda_perofsky_cv_2017.pdf">click here to
+  download the PDF file.</a></p>  
+ </object>
+ </div>
