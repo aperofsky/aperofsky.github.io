@@ -12,4 +12,3 @@ permalink: /CV/
    You can <a href="/assets/amanda_perofsky_cv_2017.pdf">click here to
   download the PDF file.</a></p>  
  </object>
- </div>
