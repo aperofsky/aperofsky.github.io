@@ -6,11 +6,11 @@ sitemap: true
 permalink: /publications/
 author_profile: true
 ---
-## In review
-- **A. C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. In review. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 
+## Under review
+- **A. C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L. Ancel Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 
 
 ## In preparation 
-- **A. C. Perofsky**, R.J. Lewis, L.A. Meyers. Gut microbiome diversity across sympatric animal populations reflects diet, habitat use, and host phylogeny. 
+- **A. C. Perofsky**, R.J. Lewis, L. Ancel Meyers. Gut microbiome diversity across sympatric animal populations reflects diet, habitat use, and host phylogeny. 
 
 ## Published
 
