@@ -30,11 +30,11 @@ Infectious diseases in non-human primates are a major conservation and public he
 ### Hierarchical social networks shape gut microbial composition in wild sifaka (_Manuscript under review_)
 - In an integrative analysis, I simultaneously related three levels of social network hierarchy—social group (between-group interactions), dyadic (pairwise associations), and individual (network, demographic, and genetic characteristics) — to variation in gut microbiomes across the sifaka population in Kirindy Mitea National Park. 
 
-### Gut microbiome diversity across sympatric animal populations reflects diet, habitat use, and host phylogeny (_Manuscript in preparation_)
+### Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, habitat use, and host phylogeny (_Manuscript drafted_)
 - I examined the relative influences of diet, habitat overlap, and host evolutionary history on gut microbiome diversity and composition among six sympatric mammal species (red-fronted brown lemurs, red-tailed sportive lemurs, Verreaux’s sifaka, cattle, fossa, and bush pigs) inhabiting Kirindy Mitea National Park.
 
 ### How does sifaka social structure influence the colonization and turnover of bacterial phylotypes for individuals, groups, and the focal population? (_In progress_)
-- Using 16S RNA sequences from fecal samples collected in 2012, 2015, and 2016, we are estimating rates of phylotype gain and loss for individuals, groups, and the population, and examining whether dynamic network characteristics, such as changes in social group composition, and individual-level attributes (_e.g._, dispersal history, developmental stage, centrality in the social network) correlate with microbiological dynamics. 
+- Using 16S RNA sequences from fecal samples collected in 2012, 2015, and 2016, I am estimating rates of phylotype gain and loss for individuals, groups, and the population, and examining whether dynamic network characteristics, such as changes in social group composition, and individual-level attributes (_e.g._, dispersal history, developmental stage, centrality in the social network) correlate with microbiological dynamics. 
 
 ### How do social networks shape between-host transmission dynamics of opportunistic bacterial pathogens? (_In progress_)
 
