@@ -27,7 +27,7 @@ Infectious diseases in non-human primates are a major conservation and public he
 
 ## Projects
 
-### Hierarchical social networks shape gut microbial composition in wild sifaka (_Manuscript in press_)
+### Hierarchical social networks shape gut microbial composition in wild sifaka ([Manuscript](http://rspb.royalsocietypublishing.org/content/284/1868/20172274))
 - In a multi-dimensional analysis, I related hierarchical characteristics—including group membership, pairwise associations, and individual-level connectivity, demography, and genotype—to microbial community structure within and across seven sifaka social groups in Kirindy Mitea National Park. 
 
 ### Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, habitat use, and host phylogeny (_Manuscript drafted_)
