@@ -16,7 +16,7 @@ author_profile: true
   Press: [UGA Odum School of Ecology](http://www.ecology.uga.edu/newsItem.php?Connections_found_between_wetland_cover_transmission_rates_of_hemorrhagic_disease_in_white-tailed_deer-234/)
 
 ## Manuscripts Under Review 
-- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals.  
+- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. [bioRxiv preprint](https://doi.org/10.1101/293282)
 
 ## Published Abstracts
 - N. Ismail-O'Keeffe, H. Yin, **A. Perofsky**, J.A. Chiorini. 2012. Soluble BAFF-R Receptor (sBAFF-R) as a Potential treatment for Sjögren Syndrome. _Investigative Ophthalmology & Visual Science_ 53(14): 1917. [Abstract](http://iovs.arvojournals.org/article.aspx?articleid=2351891). 
