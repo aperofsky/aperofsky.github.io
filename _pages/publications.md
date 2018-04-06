@@ -13,6 +13,7 @@ author_profile: true
 - E.J. Rakotomalala, F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. 2017. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. _Folia Primatologica_ 88:28-41. [Article](http://www.karger.com/Article/Abstract/464406).
 
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](http://www.jwildlifedis.org/doi/10.7589/2012-11-283). † Co-first authors
+  Press: [UGA Odum School of Ecology](http://www.ecology.uga.edu/newsItem.php?Connections_found_between_wetland_cover_transmission_rates_of_hemorrhagic_disease_in_white-tailed_deer-234/)
 
 ## Manuscripts Under Review 
 - **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals.  
