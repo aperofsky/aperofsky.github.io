@@ -14,8 +14,8 @@ author_profile: true
 
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](http://www.jwildlifedis.org/doi/10.7589/2012-11-283). † Co-first authors
 
-## Articles In Preparation 
-- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, habitat use, and host phylogeny. 
+## Manuscripts Under Review 
+- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals.  
 
 ## Published Abstracts
 - N. Ismail-O'Keeffe, H. Yin, **A. Perofsky**, J.A. Chiorini. 2012. Soluble BAFF-R Receptor (sBAFF-R) as a Potential treatment for Sjögren Syndrome. _Investigative Ophthalmology & Visual Science_ 53(14): 1917. [Abstract](http://iovs.arvojournals.org/article.aspx?articleid=2351891). 
