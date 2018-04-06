@@ -29,7 +29,7 @@ Many diurnal primates live in social groups with individuals typically interacti
 ### Hierarchical social networks shape gut microbial composition in wild sifaka ([Manuscript](http://rspb.royalsocietypublishing.org/content/284/1868/20172274))
 - In a multi-dimensional analysis, I relate hierarchical characteristics—including group membership, pairwise associations, and individual-level connectivity, demography, and genotype—to microbial community structure within and across seven sifaka social groups in Kirindy Mitea. 
 
-### Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, habitat use, and host phylogeny (_Manuscript drafted_)
+### Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, habitat use, and host phylogeny (_Manuscript submitted_)
 - I examine the relative influences of diet, environment, and host evolutionary history on gut microbiome diversity and functionality among six sympatric mammal species - three primate and three non-primate - inhabiting Kirindy Mitea.
 
 ### How does sifaka social structure influence the colonization and turnover of bacterial phylotypes for individuals, groups, and the focal population? (_In progress_)
