@@ -7,7 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## Peer-Reviewed Journal Articles
-- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. Accepted, _The ISME Journal_ [bioRxiv preprint](https://doi.org/10.1101/293282)
+- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. In press, _The ISME Journal_ [bioRxiv preprint](https://doi.org/10.1101/293282)
 
 - **A.C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. 2017. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. _Proceedings of the Royal Society B: Biological Sciences_ 284: 20172274. [Article](http://rspb.royalsocietypublishing.org/content/284/1868/20172274).
 	Press: [UT News](https://news.utexas.edu/2017/12/07/gut-microbiome-influenced-heavily-by-social-circles), [UT Austin College of Natural Sciences](https://cns.utexas.edu/news/gut-microbiome-influenced-heavily-by-social-circles-in-lemurs-ut-study-says), [ScienceDaily](https://www.sciencedaily.com/releases/2017/12/171206090701.htm), [AAAS](https://www.eurekalert.org/pub_releases/2017-12/uota-gmi120517.php), [Daily Texan](https://www.dailytexanonline.com/2018/03/27/little-leaping-lemurs%E2%80%99-social-lives-influence-what-bacteria-is-found-in-their-digestive)
