@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Amanda C. Perofsky"
 title_separator          : "-"
 name                     : "Amanda C. Perofsky"
-description              : quantitative disease ecologist, contact network epidemiology in wild lemurs
+description              : disease ecologist
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aperofsky/minimal-mistakes"
@@ -79,14 +79,14 @@ analytics:
 author:
   name             : "Amanda Perofsky"
   avatar           : "/assets/images/DSC_4923.jpg"
-  bio              : "quantitative disease ecologist, field biologist, contact network epidemiology in wild lemurs"
-  location         : "Austin, Texas"
-  email            : "aperofsky@utexas.edu"
+  bio              : "disease ecologist"
+  location         : "Washington, DC"
+  email            : "amanda.perofsky@nih.gov"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "aperofsky"
+  flickr           : 
   facebook         :
   foursquare       :
   github           : "aperofsky"
@@ -97,14 +97,14 @@ author:
   linkedin         : "amandaperofsky"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "aperofsky"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
