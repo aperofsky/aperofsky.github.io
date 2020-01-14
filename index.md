@@ -11,8 +11,6 @@ header:
   caption: "Verreaux's sifaka at Ankoatsifaka Research Station in Kirindy Mitea National Park, Madagascar. Credit: Amanda Perofsky"
 ---
 
-I'm a PhD candidate in [Dr. Lauren Ancel Meyer's research group](http://www.bio.utexas.edu/research/meyers/) at The University of Texas at Austin. <br>
+I'm a postdoctoral researcher in the [Division of International Epidemiology and Population Studies (DIEPS)](https://www.fic.nih.gov/About/Staff/Pages/epidemiology-population.aspx) at the Fogarty International Center, National Institutes of Health. My current research focuses on the epidemiology and transmission dynamics of influenza, and particularly how genetic evolution of the flu virus affects variation in the size and severity of seasonal epidemics, both within the United States and at a global scale. 
 
-My dissertation research combines computational modeling, field behavioral observations, and molecular analyses to study how contact networks influence bacteria transmission and gut microbiome composition in group-living wildlife. In particular, my work focuses on a population of wild lemurs (Verreaux's sifaka, _Propithecus verreauxi_) inhabiting Kirindy Mitea National Park in western Madagascar. <br>
-
-I am graduating from UT-Austin in August 2018 and will join the National Institutes of Health's [Fogarty International Center](https://www.fic.nih.gov/About/Staff/Pages/epidemiology-population.aspx) as a postdoctoral fellow in September 2018. 
+I completed my PhD in 2018 in [Dr. Lauren Ancel Meyer's lab](http://www.bio.utexas.edu/research/meyers/) at The University of Texas at Austin. My dissertation research combined computational modeling, field behavioral observation data, and metagenomic sequence analysis to study how contact networks in wildlife influence bacteria transmission and gut microbiome composition. This work focused on a population of wild Verreaux’s sifaka inhabiting Kirindy Mitea UNESCO Biosphere in western Madagascar and was in close collaboration with the [Sifaka Research Project](http://labs.la.utexas.edu/ankoatsifaka/sifaka-research-project/), a long-term research study in Kirindy Mitea.

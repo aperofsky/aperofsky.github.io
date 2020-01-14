@@ -23,11 +23,11 @@ header:
 
 ## Postdoctoral research: The impact of influenza antigenic evolution on seasonal epidemics
 
-Each year, seasonal influenza imposes a significant public health burden, causing up to 500,000 deaths worldwide and billions of dollars in economic losses in the United States alone. Although individuals develop long-lasting immunity to particular influenza strains after infection, influenza viruses accumulate genetic changes that alter antigenic phenotype, leaving previously exposed individuals susceptible to reinfection. The influenza viral population continually evolves new antigenic variants, primarily through mutations to the HA1 region of the hemagglutinin (HA) gene, in a process known as antigenic drift. Antigenic drift enables individuals to be infected multiple times throughout their lifetimes and necessitates the reformulation of the influenza vaccine every year. Though there have been important advances concerning our understanding of the rates and spatial dynamics of HA evolution on a global scale, the contribution of HA evolution to inter-annual fluctuations in influenza epidemiology is not well understood. In collaboration with Cécile Viboud [Fogarty International Center](http://misms.net/staff/cecile-viboud/) and Trevor Bedford and John Huddleston [Fred Hutchinson Cancer Research Center](https://bedford.io/), my postdoc research aims to link influenza A/H3N2 evolutionary dynamics to epidemiological impact, at both the population level and the global level. 
+Each year, seasonal influenza imposes a significant public health burden, causing up to 500,000 deaths worldwide and billions of dollars in economic losses in the United States alone. Although individuals develop long-lasting immunity to particular influenza strains after infection, influenza viruses accumulate genetic changes that alter antigenic phenotype, leaving previously exposed individuals susceptible to reinfection. The influenza viral population continually evolves new antigenic variants, primarily through mutations to the HA1 region of the hemagglutinin (HA) gene, in a process known as antigenic drift. Antigenic drift enables individuals to be infected multiple times throughout their lifetimes and necessitates the reformulation of the influenza vaccine every year. Though there have been important advances concerning our understanding of the rates and spatial dynamics of HA evolution on a global scale, the contribution of HA evolution to inter-annual fluctuations in influenza epidemiology is not well understood. In collaboration with [Cécile Viboud (Fogarty International Center)](http://misms.net/staff/cecile-viboud/) and [Trevor Bedford and John Huddleston (Fred Hutch)](https://bedford.io/), my postdoc research aims to link influenza A/H3N2 evolutionary dynamics to epidemiological impact, at both the population level and the global level. 
 
 ### Other ongoing projects: 
 - Influenza transmission among exhibition swine in the United States Midwest
-- Short-term forecasting of influenza-like illness cases on military bases (DoD Forecasting Challenge)
+- Short-term forecasting of influenza-like illness (ILI) cases on United States military bases [DoD Influenza Forecasting Challenge](https://predict.cdc.gov/)
 
 ## PhD Research: Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiome Composition in Wild Lemurs
 
@@ -42,7 +42,7 @@ Many diurnal primates live in social groups with individuals typically interacti
 ### Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals ([Manuscript](https://doi.org/10.1101/293282))
 - I examined the relative influences of diet, environment, and host evolutionary history on gut microbiome diversity and functionality among six sympatric mammal species - three primate and three non-primate - inhabiting Kirindy Mitea.
 
-### Ongoing research: Social groups constrain the temporal dynamics of wild sifaka gut microbiomes.(_Manuscript in prep_)
+### Ongoing research: Social groups constrain the temporal dynamics of wild sifaka gut microbiomes (_Manuscript in prep_)
 - Using behavioral, demographic, and microbial data collected across multiple years, I am examining whether host contact networks and individual-level attributes correlate with gut microbial turnover in Verreaux's sifaka. 
 
 ## Background
