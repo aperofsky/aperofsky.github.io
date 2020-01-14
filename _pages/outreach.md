@@ -9,6 +9,8 @@ permalink: /outreach/
 
 - 2019-present: Member, NIH Science Policy Discussion Group (SPDG). The NIH SPDG is a fellow-led and run self-governing organization that brings together fellows with a shared passion for understanding the intersection of scientific research and legislative policy.
 
+- 2018-present: Co-instructor for [MISMS training workshops](http://misms.net/) on infectious disease quantitative analysis methods, including time-series modeling, epidemiological modeling, and phylogenetic analysis. 
+
 - 2011-2018: Co-host of [They Blinded Me With Science](https://www.facebook.com/tbmwskvrx), a weekly educational radio program on [KVRX 91.7 FM](http://kvrx.org/) that features guest researchers and discussion of current publications. I recruited guests, conducted interviews, and produced podcasts that are available for download on [Podbean](http://tbmws.podbean.com/) and [iTunes](https://itunes.apple.com/us/podcast/they-blinded-me-with-science/id908731079?mt=2). 
 <figure>
   <img src="/assets/images/DSC_4924.jpg" alt="TBMWS">
