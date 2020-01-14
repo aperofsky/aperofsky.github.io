@@ -17,7 +17,7 @@ author_profile: true
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). † Co-first authors
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
 
-## Manuscripts in Prep
+## Manuscripts in prep
 - Cécile Viboud, Katelyn Gostic, Martha Nelson, Graeme E Price, **Amanda Perofsky**, Kaiyuan Sun, Nídia Sequeira Trovão, Benjamin Cowling, Suzanne Epstein, David J. Spiro. Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine.
 
 - **Amanda C. Perofsky**, Lauren Ancel Meyers, Rebecca J. Lewis. Social groups constrain the temporal dynamics of wild sifaka gut microbiomes. 
