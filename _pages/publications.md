@@ -17,15 +17,11 @@ author_profile: true
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). † Co-first authors
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
 
-## Manuscripts in prep
+## Under Review
 - Cécile Viboud, Katelyn Gostic, Martha Nelson, Graeme E Price, **Amanda Perofsky**, Kaiyuan Sun, Nídia Sequeira Trovão, Benjamin Cowling, Suzanne Epstein, David J. Spiro. Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine.
 
+## In Prep
 - **Amanda C. Perofsky**, Lauren Ancel Meyers, Rebecca J. Lewis. Social groups constrain the temporal dynamics of wild sifaka gut microbiomes. 
-
-## Published Abstracts
-- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Gut microbiome diversity across sympatric mammal populations of Madagascar reflects diet, substrate use, and host phylogeny. American Journal of Physical Anthropology 165:204. [Abstract](https://doi.org/10.1002/ajpa.23489)
-
-- N. Ismail-O'Keeffe, H. Yin, **A. Perofsky**, J.A. Chiorini. 2012. Soluble BAFF-R Receptor (sBAFF-R) as a Potential treatment for Sjögren Syndrome. _Investigative Ophthalmology & Visual Science_ 53(14):1917. [Abstract](http://iovs.arvojournals.org/article.aspx?articleid=2351891)
 
 ## Non-Peer Reviewed
 - **A.C. Perofsky**, 2018. Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiomes in Malagasy Mammals. Doctoral Dissertation. The University of Texas at Austin, Austin, Texas.
