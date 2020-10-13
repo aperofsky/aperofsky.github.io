@@ -6,14 +6,14 @@ sitemap: true
 permalink: /publications/
 author_profile: true
 ---
-## Peer-Reviewed Journal Articles
-- **A.C. Perofsky** and M.I. Nelson. 2020. The challenges of vaccine strain selection. eLife 9: e62955. doi: 10.7554/eLife62955. In press. (invited commentary)
 
-- M.I. Nelson, **A. Perofsky**, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, A.S. Bowman. 2020. A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. Journal of Virology. [Article](https://doi.org/10.1128/JVI.01453-20)
+- **A.C. Perofsky** and M.I. Nelson. 2020. The challenges of vaccine strain selection. _eLife_ 9: e62955. doi: 10.7554/eLife62955. In press. (invited commentary)
 
-- C. Viboud, K. Gostic, M.I. Nelson, G.E. Price, **A.C. Perofsky**, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, D.J. Spiro. 2020. Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. PLOS Pathogens 16(9): e1008583. [Article](https://doi.org/10.1371/journal.ppat.1008583)
+- M.I. Nelson, **A. Perofsky**, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, A.S. Bowman. 2020. A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. _Journal of Virology_. [Article](https://doi.org/10.1128/JVI.01453-20)
 
-- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. _The ISME Journal_. [Article](https://doi.org/10.1038/s41396-018-0251-5) 
+- C. Viboud, K. Gostic, M.I. Nelson, G.E. Price, **A.C. Perofsky**, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, D.J. Spiro. 2020. Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. _PLOS Pathogens_ 16:e1008583. [Article](https://doi.org/10.1371/journal.ppat.1008583)
+
+- **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. _The ISME Journal_ 13:50–63. [Article](https://doi.org/10.1038/s41396-018-0251-5) 
 
 - **A.C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. 2017. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [Article](https://doi.org/10.1098/rspb.2017.2274).
 	Press: [UT News](https://news.utexas.edu/2017/12/07/gut-microbiome-influenced-heavily-by-social-circles), [UT Austin College of Natural Sciences](https://cns.utexas.edu/news/gut-microbiome-influenced-heavily-by-social-circles-in-lemurs-ut-study-says), [ScienceDaily](https://www.sciencedaily.com/releases/2017/12/171206090701.htm), [AAAS](https://www.eurekalert.org/pub_releases/2017-12/uota-gmi120517.php), [Daily Texan](https://www.dailytexanonline.com/2018/03/27/little-leaping-lemurs%E2%80%99-social-lives-influence-what-bacteria-is-found-in-their-digestive)
