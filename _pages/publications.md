@@ -7,7 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **A.C. Perofsky** and M.I. Nelson. 2020. The challenges of vaccine strain selection. _eLife_ 9: e62955. doi: 10.7554/eLife62955. In press. (invited commentary)
+- **A.C. Perofsky** and M.I. Nelson. 2020. The challenges of vaccine strain selection. _eLife_ 9:e62955. [Article](https://doi.org/10.7554/eLife.62955)
 
 - M.I. Nelson, **A. Perofsky**, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, A.S. Bowman. 2020. A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. _Journal of Virology_. [Article](https://doi.org/10.1128/JVI.01453-20)
 
