@@ -7,6 +7,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+† Indicates equal contribution
+
+- D.S. McBride†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. 2021. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. _The Journal of Infectious Diseases_ jiab122. [Article](https://doi.org/10.1093/infdis/jiab122)
+
 - **A.C. Perofsky** and M.I. Nelson. 2020. Seasonal influenza: The challenges of vaccine strain selection. _eLife_ 9:e62955. [Article](https://doi.org/10.7554/eLife.62955)
 
 - M.I. Nelson, **A. Perofsky**, D.S. McBride, B.L. Rambo-Martin, M.M. Wilson, J.R. Barnes, H. van Bakel, J.M. Nolting, A.S. Bowman. 2020. A heterogenous swine show circuit drives zoonotic transmission of influenza A viruses in the United States. _Journal of Virology_. [Article](https://doi.org/10.1128/JVI.01453-20)
@@ -20,8 +24,5 @@ author_profile: true
 
 - E.J. Rakotomalala, F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. 2017. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. _Folia Primatologica_ 88:28-41. [Article](https://doi.org/10.1159/000464406).
 
-- B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). † Co-first authors
+- B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283).
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
-  
-## Manuscripts in progress
-- D.S. McBride†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. In revision. † Co-first authors
