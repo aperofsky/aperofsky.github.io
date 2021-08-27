@@ -11,11 +11,16 @@ header:
   caption: "Glen Canyon, Arizona."
 ---
 
-## Amanda C. Perofsky
-Postdoctoral Researcher <br>
-Fogarty International Center<br>
-[Division of International Epidemiology and Population Studies (DIEPS)](https://www.fic.nih.gov/About/Staff/Pages/epidemiology-population.aspx)<br>
+## Amanda C. Perofsky, PhD
+Research Scientist <br>
+Brotman Baty Institute for Precision Medicine <br>
+University of Washington School of Medicine <br>
+<acperof@uw.edu>
+
+Guest Researcher <br>
+Division of International Epidemiology and Population Studies <br>
+Fogarty International Center <br>
 National Institutes of Health <br>
 <amanda.perofsky@nih.gov>
 
-I grew up in Macon, GA and currently live in Washington, DC. My hobbies include hiking, motorcycles, and seeing live music. For six years, I hosted a [weekly radio show](https://www.facebook.com/kvrxpyramid/) on KVRX 91.7 (UT-Austin's volunteer, student-run radio station) that focused on psych, prog, and early electronic - some past episodes and playlists are on [mixcloud](https://www.mixcloud.com/amanda-perofsky/) and [youtube](https://www.youtube.com/channel/UCEroWMrtC54xit3wEkDLkuw).
+I grew up in Macon, Georgia and currently live in Washington, DC. My hobbies include hiking, motorcycles, and seeing live music. For six years, I hosted a weekly radio show on KVRX 91.7 (UT-Austin's volunteer, student-run radio station) that focused on psych, prog, and early electronic. Some past episodes and playlists are on [mixcloud](https://www.mixcloud.com/amanda-perofsky/) and [youtube](https://www.youtube.com/channel/UCEroWMrtC54xit3wEkDLkuw).

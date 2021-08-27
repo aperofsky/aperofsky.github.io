@@ -20,9 +20,13 @@ author_profile: true
 - **A.C. Perofsky**, R.J. Lewis, L.A. Meyers. 2018. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. _The ISME Journal_ 13:50–63. [Article](https://doi.org/10.1038/s41396-018-0251-5) 
 
 - **A.C. Perofsky**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. 2017. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [Article](https://doi.org/10.1098/rspb.2017.2274).
-	Press: [UT News](https://news.utexas.edu/2017/12/07/gut-microbiome-influenced-heavily-by-social-circles), [UT Austin College of Natural Sciences](https://cns.utexas.edu/news/gut-microbiome-influenced-heavily-by-social-circles-in-lemurs-ut-study-says), [ScienceDaily](https://www.sciencedaily.com/releases/2017/12/171206090701.htm), [AAAS](https://www.eurekalert.org/pub_releases/2017-12/uota-gmi120517.php), [Daily Texan](https://www.dailytexanonline.com/2018/03/27/little-leaping-lemurs%E2%80%99-social-lives-influence-what-bacteria-is-found-in-their-digestive)
+	Press: [UT News](https://news.utexas.edu/2017/12/07/gut-microbiome-influenced-heavily-by-social-circles), [UT Austin College of Natural Sciences](https://cns.utexas.edu/news/gut-microbiome-influenced-heavily-by-social-circles-in-lemurs-ut-study-says), [Daily Texan](https://www.dailytexanonline.com/2018/03/27/little-leaping-lemurs%E2%80%99-social-lives-influence-what-bacteria-is-found-in-their-digestive)
 
 - E.J. Rakotomalala, F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. 2017. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. _Folia Primatologica_ 88:28-41. [Article](https://doi.org/10.1159/000464406).
 
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283).
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
+
+Manuscripts in progress
+
+- **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In revision 
