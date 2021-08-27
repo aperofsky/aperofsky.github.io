@@ -35,7 +35,7 @@ My current research focuses on the epidemiology, ecology, and transmission dynam
 
 ## PhD Research: Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiome Composition in Wild Lemurs
 
-At UT-Austin, I studied how contact networks and proximity to other host species influence gut microbiome composition and plasticity in wild lemurs. This research focused on a population of wild Verreaux’s sifaka in Kirindy Mitea National Park, Madagascar and was conducted as part of ([The Sifaka Research Project](http://labs.la.utexas.edu/ankoatsifaka/sifaka-research-project/)), a long-term research study in Kirindy Mitea.
+At UT-Austin, I studied how contact networks and proximity to other host species influence gut microbiome composition and plasticity in wild lemurs. This research focused on a population of wild Verreaux’s sifaka in Kirindy Mitea National Park, Madagascar and was conducted as part of [The Sifaka Research Project](http://labs.la.utexas.edu/ankoatsifaka/sifaka-research-project/), a long-term research study in Kirindy Mitea.
 {% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture in 2016. Right: Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park." %}
 
 ## Predoctoral Research
