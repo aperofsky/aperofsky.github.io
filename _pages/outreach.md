@@ -7,7 +7,7 @@ author_profile: true
 permalink: /outreach/
 ---
 
-- 2019-2021: Member, NIH Science Policy Discussion Group (SPDG). The NIH SPDG is a fellow-led and run self-governing organization that brings together fellows with a shared passion for understanding the intersection of scientific research and legislative policy. I wrote essays about [the legal precedent for COVID-19 vaccine mandates](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/) and [the role of COVID-19 forecasting models in decision-making](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/).
+- 2019-2021: Member, NIH Science Policy Discussion Group (SPDG). The NIH SPDG is a fellow-led and run self-governing organization that brings together fellows with a shared passion for understanding the intersection of scientific research and legislative policy. I wrote essays about [COVID-19 vaccine mandates](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/) and [the role of COVID-19 forecasting models in policy decisions](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/).
 
 - 2018-2019: Co-instructor for [MISMS training workshops](http://misms.net/) on infectious disease quantitative analysis methods, including time-series modeling, epidemiological modeling, and phylogenetic analysis. 
 

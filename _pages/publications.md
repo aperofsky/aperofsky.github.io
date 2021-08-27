@@ -27,6 +27,6 @@ author_profile: true
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283).
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
 
-Manuscripts in progress
+**Manuscripts in progress**
 
 - **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In revision 
