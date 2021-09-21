@@ -9,6 +9,8 @@ author_profile: true
 
 † Indicates equal contribution
 
+- - **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In press.
+
 - D.S. McBride†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. 2021. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. _The Journal of Infectious Diseases_ jiab122. [Article](https://doi.org/10.1093/infdis/jiab122)
 
 - **A.C. Perofsky** and M.I. Nelson. 2020. Seasonal influenza: The challenges of vaccine strain selection. _eLife_ 9:e62955. [Article](https://doi.org/10.7554/eLife.62955)
@@ -26,7 +28,3 @@ author_profile: true
 
 - B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283).
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
-
-**Manuscripts in progress**
-
-- **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In revision 
