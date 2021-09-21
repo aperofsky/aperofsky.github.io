@@ -7,9 +7,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-† Indicates equal contribution
+† indicates equal contribution
 
-- - **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In press.
+- **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ In press.
 
 - D.S. McBride†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. 2021. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. _The Journal of Infectious Diseases_ jiab122. [Article](https://doi.org/10.1093/infdis/jiab122)
 
