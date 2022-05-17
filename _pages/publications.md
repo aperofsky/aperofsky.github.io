@@ -9,7 +9,7 @@ author_profile: true
 
 † indicates equal contribution
 
-10. **A.C. Perofsky**, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, C. Cohen. 2022. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. _Clinical Infectious Diseases_ In press. [Article](https://doi.org/10.1093/cid/ciac055) [Example Code](https://github.com/aperofsky/South_Africa_Healthcare_Use_during_COVID)
+10. **A.C. Perofsky**, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, C. Cohen. 2022. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. _Clinical Infectious Diseases_ ciac055. [Article](https://doi.org/10.1093/cid/ciac055) [Code](https://github.com/aperofsky/South_Africa_Healthcare_Use_during_COVID)
 
 9. **A.C. Perofsky**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ 30: 6759–6775. [Article](https://doi.org/10.1111/mec.16193) [Code](https://github.com/aperofsky/sifaka-temporal-microbiome) Press: [UT News](https://news.utexas.edu/2021/12/03/how-social-dynamics-influence-the-gut-microbes-of-wild-lemurs/)
 
