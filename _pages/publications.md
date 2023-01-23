@@ -7,7 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-11.	C.L. Hansen, **A.C. Perofsky**, R. Burstein, M. Famulare, S. Boyle, R. Prentice, C. Marshall, B.J.J. McCormick, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, … C. Viboud. 2022. Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. _JAMA Network Open_ In press. [Pre-print](https://doi.org/10.1101/2022.08.12.22278203)
+11.	C.L. Hansen, **A.C. Perofsky**, R. Burstein, M. Famulare, S. Boyle, R. Prentice, C. Marshall, B.J.J. McCormick, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, … C. Viboud. 2022. Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. _JAMA Network Open_ 5(12):e2245861. [Article](https://doi.org/10.1001/jamanetworkopen.2022.45861)
 
 10. **A.C. Perofsky**, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, C. Cohen. 2022. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. _Clinical Infectious Diseases_ ciac055. [Article](https://doi.org/10.1093/cid/ciac055), [Code](https://github.com/aperofsky/South_Africa_Healthcare_Use_during_COVID)
 
@@ -30,3 +30,6 @@ author_profile: true
 
 1. B.S. Berry†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). † equal contribution
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
+
+## Manuscripts In Progress
+M.I. Paredes, **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller, T. Bedford. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county. _Submitted_
