@@ -23,17 +23,17 @@ header:
 
 ## Postdoctoral research: Epidemiology and transmission dynamics of respiratory viruses
 
-My current research focuses on the epidemiology, ecology, and transmission dynamics of respiratory viruses in human and animal populations. 
+My current research focuses on the epidemiology, ecology, and transmission dynamics of respiratory viruses. 
 
 ### Ongoing Research: 
-- The impact of social distancing on the transmission dynamics of endemic respiratory pathogens in Seattle, Washington, with [Cécile Viboud (NIH)](http://misms.net/staff/cecile-viboud/) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
-- The impact of antigenic drift on seasonal influenza epidemics and vaccine effectiveness, with [Cécile Viboud (NIH)](http://misms.net/staff/cecile-viboud/) and [Trevor Bedford's group (Fred Hutch)](https://bedford.io/).
+- The impact of population behavior on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](http://misms.net/staff/cecile-viboud/) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
+- The impact of antigenic drift on seasonal influenza epidemics and vaccine effectiveness, with [Cécile Viboud (NIH)](http://misms.net/staff/cecile-viboud/) and [Trevor Bedford's group (Fred Hutch)](https://bedford.io/)
 - Long-term scenario projections and short-term forecasts of influenza hospitalizations in the United States: [Flu Scenario Modeling Hub](https://fluscenariomodelinghub.org/) and [CDC FluSight Forecasting Collaboration](https://www.cdc.gov/flu/weekly/flusight/index.html)
-- Short-term forecasts of COVID-19 and influenza-like illness (ILI) cases on United States military bases: [DoD Influenza Forecasting Challenge](https://predict.cdc.gov/) and DoD COVID+ILI forecasting collaboration
 
 ### Past Post-Doctoral Research Projects:
 - The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa, with the [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za/)
 - Utilizing excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 activity in South Africa, with the [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za/). [Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/)
+- Short-term forecasts of COVID-19 and influenza-like illness (ILI) cases on United States military bases: [DoD Influenza Forecasting Challenge](https://predict.cdc.gov/) and DoD COVID+ILI forecasting collaboration (2019-2022)
 - Influenza transmission dynamics among exhibition swine in the United States Midwest, with [Martha Nelson (NIH)](http://misms.net/staff/martha-nelson/) and [Andrew Bowman's group (Ohio State)](https://cph.osu.edu/people/abowman)
 
 ## PhD Research: Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiome Composition in Wild Lemurs
