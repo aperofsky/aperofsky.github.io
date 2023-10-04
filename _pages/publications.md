@@ -8,9 +8,9 @@ author_profile: true
 ---
 
 ## Manuscripts under review
-13. **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, C. Viboud. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. 2023. _medRxiv_ 2023.10.02.23296453. [Pre-print](https://doi.org/10.1101/2023.10.02.23296453)
+13. **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, C. Viboud. 2023. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. _medRxiv_ 2023.10.02.23296453. [Pre-print](https://doi.org/10.1101/2023.10.02.23296453)
 
-12. Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller, T. Bedford. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county. 2022. _medXriv_ 2022.12.15.22283536. [Pre-print](https://www.medrxiv.org/content/10.1101/2022.12.15.22283536v1)
+12. Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller, T. Bedford. 2022. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county. _medXriv_ 2022.12.15.22283536. [Pre-print](https://www.medrxiv.org/content/10.1101/2022.12.15.22283536v1)
 
 ## Peer-reviewed publications
 
