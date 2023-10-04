@@ -7,13 +7,20 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Manuscripts under review
+13. **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, C. Viboud. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. 2023. _medRxiv_ 2023.10.02.23296453. [Pre-print](https://doi.org/10.1101/2023.10.02.23296453)
+
+12. Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller, T. Bedford. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county. 2022. _medXriv_ 2022.12.15.22283536. [Pre-print](https://www.medrxiv.org/content/10.1101/2022.12.15.22283536v1)
+
+## Peer-reviewed publications
+
 11.	Hansen, C.L., **A.C. Perofsky**, R. Burstein, M. Famulare, S. Boyle, R. Prentice, C. Marshall, B.J.J. McCormick, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, … C. Viboud. 2022. Trends in risk factors and symptoms associated with SARS-CoV-2 and Rhinovirus test positivity in King County, Washington: A Test-Negative Design Study of the Greater Seattle Coronavirus Assessment Network. _JAMA Network Open_ 5(12):e2245861. [Article](https://doi.org/10.1001/jamanetworkopen.2022.45861)
 
 10. **Perofsky, A.C.**, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, C. Cohen. 2022. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. _Clinical Infectious Diseases_ ciac055. [Article](https://doi.org/10.1093/cid/ciac055), [Code](https://github.com/aperofsky/South_Africa_Healthcare_Use_during_COVID)
 
 9. **Perofsky, A.C.**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. 2021. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. _Molecular Ecology_ 30: 6759–6775. [Article](https://doi.org/10.1111/mec.16193), [Code](https://github.com/aperofsky/sifaka-temporal-microbiome), Press: [UT News](https://news.utexas.edu/2021/12/03/how-social-dynamics-influence-the-gut-microbes-of-wild-lemurs/)
 
-8. McBride, D.S.†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. 2021. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. _The Journal of Infectious Diseases_ jiab122. [Article](https://doi.org/10.1093/infdis/jiab122)† equal contribution
+8. McBride, D.S.†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. 2021. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. _The Journal of Infectious Diseases_ jiab122. [Article](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
 
 7. **Perofsky, A.C.** and M.I. Nelson. 2020. Seasonal influenza: The challenges of vaccine strain selection. _eLife_ 9:e62955. [Article](https://doi.org/10.7554/eLife.62955)
 
@@ -28,8 +35,5 @@ author_profile: true
 
 2. Rakotomalala,E.J., F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. 2017. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. _Folia Primatologica_ 88:28-41. [Article](https://doi.org/10.1159/000464406).
 
-1. Berry, B.S.†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). † equal contribution
+1. Berry, B.S.†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. 2013. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. _Journal of Wildlife Diseases_ 49(3):501-509. [Article](https://doi.org/10.7589/2012-11-283). †Co-first authors
   Press: [UGA Odum School of Ecology](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
-
-## Manuscripts In Progress
-Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller, T. Bedford. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in metropolitan US county. _Under review_ [Pre-print](https://www.medrxiv.org/content/10.1101/2022.12.15.22283536v1)
