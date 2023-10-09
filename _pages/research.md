@@ -23,8 +23,6 @@ header:
 
 ## Postdoctoral research: Epidemiology and transmission dynamics of respiratory viruses
 
-My current research focuses on the epidemiology, ecology, and transmission dynamics of respiratory viruses. 
-
 ### Ongoing Research: 
 - The impact of population behavior on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
 - The impact of antigenic drift on seasonal influenza epidemics and vaccine effectiveness, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) and [Trevor Bedford's group (Fred Hutch)](https://bedford.io/)
