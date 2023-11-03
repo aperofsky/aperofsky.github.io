@@ -24,7 +24,7 @@ header:
 ## Postdoctoral research: Epidemiology and transmission dynamics of respiratory viruses
 
 ### Ongoing Research: 
-- The impact of population behavior on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
+- The effects of population behavoir, masking, and COVID-19 non-pharmaceutical interventions on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
 - The impact of antigenic drift on seasonal influenza epidemics and vaccine effectiveness, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) and [Trevor Bedford's group (Fred Hutch)](https://bedford.io/)
 - Long-term scenario projections and short-term forecasts of influenza hospitalizations in the United States: [Flu Scenario Modeling Hub](https://fluscenariomodelinghub.org/) and [CDC FluSight Forecasting Collaboration](https://www.cdc.gov/flu/weekly/flusight/index.html)
 
@@ -36,7 +36,7 @@ header:
 
 ## PhD Research: Ecological, Evolutionary, and Behavioral Determinants of Gut Microbiome Composition in Wild Lemurs
 
-At UT-Austin, I studied how contact networks and proximity to other host species influence gut microbiome composition and plasticity in wild lemurs. This research focused on a population of wild Verreaux’s sifaka in Kirindy Mitea National Park, Madagascar and was conducted as part of [The Sifaka Research Project](https://labs.la.utexas.edu/ankoatsifaka/), a long-term research study in Kirindy Mitea.
+At UT-Austin, I studied how contact networks and proximity to other host species influence gut microbiome composition in wild lemurs. This research focused on a population of wild Verreaux’s sifaka in Kirindy Mitea National Park, Madagascar and was conducted as part of [The Sifaka Research Project](https://labs.la.utexas.edu/ankoatsifaka/), a long-term research study in Kirindy Mitea.
 {% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture in 2016. Right: Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park." %}
 
 ## Predoctoral Research
