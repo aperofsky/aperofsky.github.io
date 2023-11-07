@@ -9,11 +9,11 @@ gallery:
   - url: /assets/images/IMG_3024_small.jpg
     image_path: /assets/images/IMG_3024_small.jpg
     alt: "captured sifaka"
-    title: "Amanda Perofsky holding a sedated Verraux’s sifaka during the Sifaka Research Project's annual capture in 2016. The Sifaka Research Project at Ankoatsifaka Research Station captures animals periodically to mark them with collars, to monitor health, and to collect genetic material."
+    title: "Amanda Perofsky holding a sedated Verreaux’s sifaka during the Sifaka Research Project's annual capture in 2016. The Sifaka Research Project at Ankoatsifaka Research Station captures animals periodically to mark them with collars, to monitor health, and to collect genetic material."
   - url: /assets/images/IMG_6194_small.jpg
     image_path: /assets/images/IMG_6194_small.jpg
     alt: "grooming"
-    title: "Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park. Sifaka regularly groom one another with their toothcombs and tongues to remove ectoparasites. Photo credit: Amanda Perofsky"
+    title: "Sifaka allogrooming at Ankoatsifaka Research Station in Kirindy Mitea National Park. Sifaka regularly groom one another with their tooth combs and tongues to remove ectoparasites. Photo credit: Amanda Perofsky"
 
 header:
   image: "/assets/images/IMG_5722.jpg"
@@ -24,13 +24,13 @@ header:
 ## Postdoctoral research: Epidemiology and transmission dynamics of respiratory viruses
 
 ### Ongoing Research: 
-- The effects of population behavoir, masking, and COVID-19 non-pharmaceutical interventions on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
+- The effects of population behavior, masking, and COVID-19 non-pharmaceutical interventions on the transmission dynamics of endemic respiratory viruses and SARS-CoV-2 in Seattle, Washington, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) as part of the [Seattle Flu Alliance](https://seattleflu.org/)
 - The impact of antigenic drift on seasonal influenza epidemics and vaccine effectiveness, with [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx) and [Trevor Bedford's group (Fred Hutch)](https://bedford.io/)
 - Long-term scenario projections and short-term forecasts of influenza hospitalizations in the United States: [Flu Scenario Modeling Hub](https://fluscenariomodelinghub.org/) and [CDC FluSight Forecasting Collaboration](https://www.cdc.gov/flu/weekly/flusight/index.html)
 
 ### Past Post-Doctoral Research Projects:
 - The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa, with the [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za/)
-- Utilizing excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 activity in South Africa, with the [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za/). [Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/)
+- Utilizing excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 and RSV activity in South Africa, with the [National Institute for Communicable Diseases (NICD)](https://www.nicd.ac.za/). [Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/)
 - Short-term forecasts of COVID-19 and influenza-like illness (ILI) cases on United States military bases: [DoD Influenza Forecasting Challenge](https://predict.cdc.gov/) and DoD COVID+ILI forecasting collaboration (2019-2022)
 - Influenza transmission dynamics among exhibition swine in the United States Midwest, with Martha Nelson (NIH) and [Andrew Bowman's group (Ohio State)](https://vet.osu.edu/preventive-medicine/vpm-research/animal-influenza-ecology-epidemiology-research-program)
 
