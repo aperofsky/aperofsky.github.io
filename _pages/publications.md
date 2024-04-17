@@ -6,19 +6,19 @@ sitemap: true
 permalink: /publications/
 author_profile: true
 ---
+†Denotes equal contribution
 
 ## Manuscripts in revision
-†Denotes equal contribution
 
 Mathis, S.M.†, A.E. Webber†, A. Basu, J.M. Drake, L.A. White, E.L. Murray, M. Sun, T.M. Leon, A.J. Hu, D. Shemetov, L.C. Brooks, R.J. Tibshirani, A. Green, D.J. McDonald, R. Rosenfeld, S. Kandula, T.K. Yamana, S. Pei, R. Yaari, J. Shaman, A. Meiyappan, S. Omar, ... **A.C. Perofsky**, ... M. Biggerstaff, R.K. Borchering. Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. 2023. _medRxiv_ 2023.12.08.23299726. [Preprint](https://doi.org/10.1101/2023.12.08.23299726)
 
-**Perofsky, A.C.**, C. Hansen, R. Burstein, S. Boyle, R. Prentice, C. Marshall, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, L. Gamboa, P.D. Han, A. Adler, A. Waghmare, M.L. Jackson, M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, C. Viboud. Human mobility impacts the transmission of common respiratory viruses: A modeling study of the Seattle metropolitan area. 2023. _medRxiv_ 2023.10.31.23297868. [Preprint](https://doi.org/10.1101/2023.10.31.23297868), [Code](https://github.com/aperofsky/seattle_mobility_rt)
-
 ## Manuscripts in press
 
-Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller†, T. Bedford†. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2022. _medRxiv_ 2022.12.15.22283536. [Preprint](https://www.medrxiv.org/content/10.1101/2022.12.15.22283536v1). In press, _PLOS Pathogens_.
+**Perofsky, A.C.**, C.L. Hansen, R. Burstein, S. Boyle, R. Prentice, C. Marshall, D. Reinhart, B. Capodanno, M. Truong, K. Schwabe-Fry, K. Kuchta, B. Pfau, Z. Acker, J. Lee, T.R. Sibley, E. McDermot, L. Rodriguez-Salas, J. Stone, L. Gamboa, P.D. Han, A. Adler, A. Waghmare, M.L. Jackson, M. Famulare, J. Shendure, T. Bedford, H.Y. Chu, J.A. Englund, L.M. Starita, C. Viboud. Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. 2024. [medRxiv Preprint](https://doi.org/10.1101/2023.10.31.23297868), [Code](https://github.com/aperofsky/seattle_mobility_rt) Accepted at _Nature Communications_
 
 ## Publications
+
+Paredes, M.I., **A.C. Perofsky**, L. Frisbie, L.H. Moncla, P. Roychoudhury, H. Xie, S.A. Mohamed Bakhash, K. Kong, I. Arnould, T.V. Nguyen, S.T. Wendm, P. Hajian, S. Ellis, P.C. Mathias, A.L. Greninger, L.M. Starita, C.D. Frazar, E. Ryke, W. Zhong, L. Gamboa, M. Threlkeld, J. Lee, J. Stone, E. McDermot, M. Truong, J. Shendure, H.N. Oltean, C. Viboud, H. Chu, N.F. Müller†, T. Bedford†. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2024. _PLOS Pathogens_, 20(3), e1012117. [Article](https://doi.org/10.1371/journal.ppat.1012117)
 
 **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, C. Viboud. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. 2024. _eLife_ 13:RP91849 [Article](https://doi.org/10.7554/eLife.91849.1), [Code](https://github.com/aperofsky/H3N2_Antigenic_Epi), [Phylogenetics Workflow](https://github.com/blab/perofsky-ili-antigenicity), [_eLife_ Press Release](https://elifesciences.org/for-the-press/2cf176e8/interactions-between-flu-subtypes-predict-epidemic-severity-more-than-virus-evolution)
 
