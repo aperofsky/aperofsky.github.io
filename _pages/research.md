@@ -59,7 +59,7 @@ Key findings include:
 * An early-season national show played a key role in the propagation and spatial dissemination of a specific virus (H1 δ-2) that became dominant among exhibition swine and was associated with the majority of zoonotic infections in 2018.
 * The earlier timing of jackpot shows and long-distance travel for repeated showing of individual pigs provides a pathway for the introduction of influenza into county fairs. 
 
-Understanding of evolutionary origins of zoonotic IAV and which types of exhibition shows are likely to have downstream effects on disease transmission can inform public health mitigation strategies to ultimately reduce zoonotic IAV transmission and the risk of pandemic IAV emergence.
+Understanding the evolutionary origins of zoonotic IAVs and which types of exhibition shows are likely to have downstream effects on disease transmission can inform public health mitigation strategies to ultimately reduce zoonotic IAV transmission and the risk of pandemic IAV emergence.
 
 ### Publications
 * McBride, D. S.†, **Perofsky, A. C.†**, _et al_. Tracing the Source of Influenza A Virus Zoonoses in Interconnected Circuits of Swine Exhibitions. Journal of Infectious Diseases, 224(3), 458-468. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
