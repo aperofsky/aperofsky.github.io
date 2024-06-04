@@ -97,7 +97,7 @@ Together, these findings demonstrate that patterns of gut microbiome composition
 
 ### Publications
 * **Perofsky, A.C.**,  L. Ancel Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193)
-* **Perofsky, A.C.**, R.J. Lewis, L. Ancel Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2019. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
+* **Perofsky, A.C.**, R.J. Lewis, L. Ancel Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
 * **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L. Ancel Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274)
 
 {% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture in 2016. Right: Sifaka grooming at Ankoatsifaka Research Station in Kirindy Mitea National Park." %}
