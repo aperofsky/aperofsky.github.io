@@ -19,7 +19,7 @@ header:
   image: "/assets/images/IMG_5722.jpg"
   caption: "Verreaux's sifaka at Ankoatsifaka Research Station in Kirindy Mitea National Park, Madagascar. Credit: Amanda Perofsky"
 ---
-## Research Interests
+# Research Interests
 
 ## The impact of human mobility on respiratory virus transmission
 
@@ -29,7 +29,7 @@ In collaboration with [Seattle Flu Alliance](https://seattleflu.org/) investigat
 
 I have also collaborated with members of [Trevor Bedford's group (Fred Hutch)](https://bedford.io/) to relate cellphone mobility patterns to the genomic epidemiology of SARS-CoV-2 in [Seattle-King County](https://doi.org/10.1371/journal.ppat.1012117) and [Washington state](https://doi.org/10.1101/2024.05.24.24307811).
 
-#### Publications
+### Publications
 * **Perofsky, A.C.**, _et al_. Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. 2024. _Nature Communications_, 15, 4164. [DOI](https://doi.org/10.1038/s41467-024-48528-2)
 * Paredes, M.I., **A.C. Perofsky**, _et al_. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2024. _PLOS Pathogens_, 20(3), e1012117. [DOI](https://doi.org/10.1371/journal.ppat.1012117)
 * Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
@@ -37,7 +37,7 @@ I have also collaborated with members of [Trevor Bedford's group (Fred Hutch)](h
 
 ## Ecological and evolutionary drivers of influenza outbreaks in human and animal populations
 
-## The effects of antigenic drift on annual influenza epidemics in the United States 
+### The effects of antigenic drift on annual influenza epidemics in the United States 
 
 Collaborators: [Cécile Viboud (NIH)](https://www.fic.nih.gov/About/Staff/epidemiology-population-studies/Pages/default.aspx), [John Huddleston (Fred Hutch)](https://bedford.io/team/john-huddleston/), [Trevor Bedford (Fred Hutch)](https://bedford.io/), [Florian Krammer (Mt. Sinai)](https://bedford.io/team/john-huddleston/), [WHO Global Influenza Surveillance and Response System (GISRS) Collaborating Centers in Atlanta, London, Melbourne, and Tokyo](https://www.who.int/initiatives/global-influenza-surveillance-and-response-system)
 
@@ -45,11 +45,11 @@ Influenza viruses continually accumulate genetic changes in epitopes of two majo
 
 We are currently extending this research to study how antigenic drift affects A(H3N2) vaccine effectiveness in the US.
 
-#### Publications
+### Publications
 * **Perofsky, A.C.**, _et al_. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. 2024. _eLife_ 13:RP91849. [DOI](https://doi.org/10.7554/eLife.91849.1)
 * **Perofsky, A.C.** and M.I. Nelson. Seasonal influenza: The challenges of vaccine strain selection. 2020. _eLife_ 9:e62955. [DOI](https://doi.org/10.7554/eLife.62955)
 
-## Influenza transmission dynamics among exhibition swine in the United States Midwest
+### Influenza transmission dynamics among exhibition swine in the United States Midwest
 
 Collaborators: [Martha Nelson (NIH)](https://scholar.google.com/citations?user=eQaR4ywAAAAJ&hl=en) and [Andrew Bowman's group (Ohio State)](https://vet.osu.edu/preventive-medicine/vpm-research/animal-influenza-ecology-epidemiology-research-program)
 
@@ -61,7 +61,7 @@ Key findings include:
 
 Understanding of evolutionary origins of zoonotic IAV and which types of exhibition shows are likely to have downstream effects on disease transmission can inform public health mitigation strategies to ultimately reduce zoonotic IAV transmission and the risk of pandemic IAV emergence.
 
-#### Publications
+### Publications
 * McBride, D. S.†, **Perofsky, A. C.†**, _et al_. Tracing the Source of Influenza A Virus Zoonoses in Interconnected Circuits of Swine Exhibitions. Journal of Infectious Diseases, 224(3), 458-468. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
 * Nelson, M. I., **Perofsky, A.**, _et al_. A Heterogeneous Swine Show Circuit Drives Zoonotic Transmission of Influenza A Viruses in the United States. Journal of Virology, 94(24). [DOI](https://doi.org/10.1128/JVI.01453-20)
 
@@ -73,8 +73,7 @@ Understanding of evolutionary origins of zoonotic IAV and which types of exhibit
 * 2020 – 2022, Developed the analysis, wrote the first report, and provided technical support to [South Africa's National Institute for Communicable Diseases](https://www.nicd.ac.za/) for their [COVID-19 Private Consultations Excess Respiratory Encounters Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/). These reports tracked excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 and RSV activity across different age groups and provinces and were updated on a bi-weekly or monthly basis.
 * 2019 – 2022, Contributor to the US Department of Defense COVID + ILI Forecasting Collaboration. Submitted weekly short-term forecasts of influenza-like illness and COVID-like illness cases on US military bases during the 2019-20, 2020-21, and 2021-22 seasons.
 
-#### Publications
-
+### Publications
 * Mathis, S.M., A.E. Webber, ..., **A.C. Perofsky**, ... R.K. Borchering (110 authors). Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. 2023. _medRxiv_, 2023.12.08.23299726. [Preprint](https://doi.org/10.1101/2023.12.08.23299726) (In revision)
 
 ## Doctoral research: Ecological, evolutionary, and behavioral determinants of gut microbiomes in Malagasy mammals.
@@ -91,7 +90,7 @@ Key findings include:
 
 Together, these findings demonstrate that patterns of gut microbiome composition in wild mammals are scale-dependent: host phylogeny, diet, and substrate use shape microbial variation among sympatric mammal taxa, while social groupings and social contacts constrain the horizontal transmission of gut bacteria within a single host population.
 
-#### Publications
+### Publications
 * **Perofsky, A.C.**,  L. Ancel Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193)
 * **Perofsky, A.C.**, R.J. Lewis, L. Ancel Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
 * **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L. Ancel Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274)
