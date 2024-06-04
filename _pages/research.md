@@ -32,7 +32,7 @@ I have also collaborated with members of [Trevor Bedford's group (Fred Hutch)](h
 ### Publications
 * **Perofsky, A.C.**, _et al_. Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. 2024. _Nature Communications_, 15, 4164. [DOI](https://doi.org/10.1038/s41467-024-48528-2)
 * Paredes, M.I., **A.C. Perofsky**, _et al_. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2024. _PLOS Pathogens_, 20(3), e1012117. [DOI](https://doi.org/10.1371/journal.ppat.1012117)
-* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
+* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. 2024. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
 * **Perofsky, A.C.**, _et al_. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. 2022. _Clinical Infectious Diseases_, 75(1), e1000-e1010. [DOI](https://doi.org/10.1093/cid/ciac055)
 
 ## Ecological and evolutionary drivers of influenza outbreaks in human and animal populations
@@ -62,8 +62,8 @@ Key findings include:
 Understanding the evolutionary origins of zoonotic IAVs and which types of exhibition shows are likely to have downstream effects on disease transmission can inform public health mitigation strategies to ultimately reduce zoonotic IAV transmission and the risk of pandemic IAV emergence.
 
 ### Publications
-* McBride, D. S.†, **Perofsky, A. C.†**, _et al_. Tracing the Source of Influenza A Virus Zoonoses in Interconnected Circuits of Swine Exhibitions. _Journal of Infectious Diseases_, 224(3), 458-468. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
-* Nelson, M. I., **Perofsky, A.**, _et al_. A Heterogeneous Swine Show Circuit Drives Zoonotic Transmission of Influenza A Viruses in the United States. _Journal of Virology_, 94(24). [DOI](https://doi.org/10.1128/JVI.01453-20)
+* McBride, D. S.†, **Perofsky, A. C.†**, _et al_. Tracing the Source of Influenza A Virus Zoonoses in Interconnected Circuits of Swine Exhibitions. 2021. _Journal of Infectious Diseases_, 224(3), 458-468. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
+* Nelson, M. I., **Perofsky, A.**, _et al_. A Heterogeneous Swine Show Circuit Drives Zoonotic Transmission of Influenza A Viruses in the United States. 2020. _Journal of Virology_, 94(24). [DOI](https://doi.org/10.1128/JVI.01453-20)
 
 ## Operational involvement in the COVID-19 pandemic response and disease predictions
 
