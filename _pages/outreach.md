@@ -1,5 +1,5 @@
 ---
-title: "STEM Outreach, Education, and Advocacy"
+title: "STEM Outreach and Education"
 layout: single
 excerpt: "Outreach"
 sitemap: true
@@ -9,9 +9,9 @@ permalink: /outreach/
 
 ## Training workshops
 
-- 2024: Co-Instructor for [Complexity 72h](https://complexity72h.com/), an interdisciplinary workshop for young researchers in complex systems, held at Carlos III University in Madrid, Spain (upcoming, June 2024)
+- 2024: Tutor, [Complexity 72h](https://complexity72h.com/), an interdisciplinary workshop for young researchers in complex systems, held at Carlos III University in Madrid, Spain in June 2024. Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses”
 
-- 2018-2019: Co-instructor for Fogarty International Center [training workshops](https://www.fic.nih.gov/About/Staff/multinational-influenza-seasonal-mortality-study-misms) on infectious disease quantitative analysis methods, including time-series modeling, epidemiological modeling, and phylogenetic analysis. 
+- 2018-2019: Co-instructor, Fogarty International Center [training workshops](https://www.fic.nih.gov/About/Staff/multinational-influenza-seasonal-mortality-study-misms) on infectious disease quantitative analysis methods, including time-series modeling, epidemiological modeling, and phylogenetic analysis. 
 
 ## Science outreach and advocacy
 
@@ -25,7 +25,7 @@ permalink: /outreach/
   <figcaption>Hosts of "They Blinded Me with Science" on KVRX, Fall 2016. Photo by Ian M. Wright </figcaption>
 </figure>
 
-- 2011-2017: Volunteer and co-organizer, [Science Under the Stars](https://scienceunderthestars.org/), Austin, TX. SUTS is a free, monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology at UT-Austin. SUTS provides a venue for graduate students to communicate their research to the public. In Fall 2016, I gave a presentation on [lemur ecology, evolutionary history, and conservation efforts](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/). 
+- 2011-2017: Volunteer and co-organizer, [Science Under the Stars](https://scienceunderthestars.org/), Austin, TX. SUTS is a free, monthly public outreach lecture series founded and organized by graduate students in the Department of Integrative Biology at UT-Austin. SUTS provides a venue for graduate students to communicate their research to the broader public. In Fall 2016, I gave a presentation on [lemur ecology, evolutionary history, and conservation efforts](https://thedailytexan.com/2016/11/14/science-under-the-stars-lecture-features-lemurs/). 
 
 
 ## Science writing

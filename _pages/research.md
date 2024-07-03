@@ -27,14 +27,14 @@ During the COVID-19 pandemic, aggregated location data from mobile phones became
 
 In collaboration with [Seattle Flu Alliance](https://seattleflu.org/) investigators, I studied how mobility and COVID-19 NPIs influenced the transmission dynamics of SARS-CoV-2 and 17 endemic respiratory viruses in the greater Seattle region during pre- and post-pandemic years (2018 - 2022), using detailed data from hospital and community-based respiratory surveillance and aggregated foot traffic data from SafeGraph and Meta Data for Good ([Perofsky _et al._ 2024](https://doi.org/10.1038/s41467-024-48528-2)). 
 
-We found that cellphone mobility is most predictive of respiratory virus transmission during periods of dramatic behavioral change, as observed during Seattle’s stay-at-home orders in March 2020. However, smaller-scale changes in mobility also correlate with increases in transmission at the beginning of epidemic waves and with declines in transmission during shorter interruptions to population movement (e.g., a pre-pandemic snowstorm). Notably, the transmission dynamics of endemic viruses exhibited overall stronger and longer-lasting relationships with mobility than pandemic SARS-CoV-2. 
+We found that cellphone mobility is most predictive of respiratory virus transmission during periods of dramatic behavioral change, as observed during Seattle’s stay-at-home orders in March 2020. However, smaller-scale changes in mobility also correlate with increases in transmission at the beginning of epidemic waves and with declines in transmission during shorter interruptions to population movement (e.g., a pre-pandemic snowstorm). Notably, the transmission dynamics of endemic viruses exhibited overall stronger and longer-lasting relationships with mobility than pandemic SARS-CoV-2. As an extension of this work, we are currently using mechanistic transmission models, informed by mobility and serology data, to explore the relative impacts of waning immunity and decreased social distancing on the rebound of RSV in Seattle.
 
 I have also collaborated with members of [Trevor Bedford's group (Fred Hutch)](https://bedford.io/) to relate cellphone mobility patterns to the genomic epidemiology of SARS-CoV-2 in [Seattle-King County](https://doi.org/10.1371/journal.ppat.1012117) and [Washington state](https://doi.org/10.1101/2024.05.24.24307811).
 
 ### Publications
 * **Perofsky, A.C.**, _et al_. Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. 2024. _Nature Communications_, 15, 4164. [DOI](https://doi.org/10.1038/s41467-024-48528-2)
 * Paredes, M.I., **A.C. Perofsky**, _et al_. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2024. _PLOS Pathogens_, 20(3), e1012117. [DOI](https://doi.org/10.1371/journal.ppat.1012117)
-* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. 2024. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
+* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. 2024. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811) (In review)
 * **Perofsky, A.C.**, _et al_. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. 2022. _Clinical Infectious Diseases_, 75(1), e1000-e1010. [DOI](https://doi.org/10.1093/cid/ciac055)
 
 ## Ecological and evolutionary drivers of influenza outbreaks in human and animal populations
@@ -47,7 +47,7 @@ Influenza viruses continually accumulate genetic changes in epitopes of two majo
 
 We found that evolution in both major surface proteins contributes to variability in epidemic magnitude across seasons, though viral evolution appears to be secondary to subtype interference in shaping annual outbreaks. When comparing the predictive performance of different evolutionary indicators, genetic changes in broad sets of epitope sites had stronger, more consistent relationships with different measures of epidemic dynamics than the serological assays traditionally used to measure how flu viruses change from season to season. These findings have implications for surveillance of evolutionary indicators that are most relevant for population impact and for the prediction of influenza burden on inter-annual timeframes.
 
-We are currently extending this research to study how antigenic drift affects A(H3N2) vaccine effectiveness in the US.
+We are currently extending this research to study how antigenic drift, prior population immunity, and vaccination affect A(H3N2) vaccine effectiveness in the US.
 
 ### Publications
 * **Perofsky, A.C.**, _et al_. Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States. 2024. _eLife_ 13:RP91849. [DOI](https://doi.org/10.7554/eLife.91849.1)
@@ -61,7 +61,7 @@ Every summer in the United States, youths attending agricultural fairs are expos
 
 Key findings include: 
 * An early-season national show played a key role in the propagation and spatial dissemination of a specific virus (H1 δ-2) that became dominant among exhibition swine and was associated with the majority of zoonotic infections in 2018.
-* Jackpot shows are events held specifically to show swine and do not include the additional community festival attractions that are present at a typical state or county fair. The earlier timing of jackpot shows and long-distance travel for repeated showing of individual pigs provides a pathway for the introduction of influenza into county fairs.
+* The earlier timing of jackpot shows and long-distance travel for repeated showing of individual pigs provides a pathway for the introduction of influenza into county fairs. Jackpot shows are held at the beginning of the "show season" to specifically to show swine and do not include the additional community festival attractions that are present at state and county fairs.
 
 Understanding the evolutionary origins of zoonotic IAVs and which types of exhibition shows are likely to have downstream effects on disease transmission can inform public health mitigation strategies to ultimately reduce zoonotic IAV transmission and the risk of pandemic IAV emergence.
 
@@ -72,14 +72,14 @@ Understanding the evolutionary origins of zoonotic IAVs and which types of exhib
 ## Operational involvement in the COVID-19 pandemic response and disease predictions
 
 * 2023 – 2024, [Dashboard of SARS-CoV-2 variant forecasts for Washington and other US states](https://seattleflu.org/sars-cov-2-forecasts), hosted by the Seattle Flu Alliance (In collaboration with the [Nextstrain](https://nextstrain.org/) team)
-* 2022 – 2024, Contributor to the [US CDC FluSight Forecasting Collaboration](https://www.cdc.gov/flu/weekly/flusight/index.html). Submitted weekly short-term forecasts of influenza hospitalizations in the US during the 2022-23 and 2023-24 seasons.
-* 2022 – 2024, Contributor to the [US Influenza Scenario Modeling Hub](https://fluscenariomodelinghub.org/). Submitted long-term scenario projections of influenza hospitalizations in the US during the 2022-23 and 2023-24 seasons.
-* 2020 – 2022, Developed the analysis, wrote the first report, and provided technical support to [South Africa's National Institute for Communicable Diseases](https://www.nicd.ac.za/) for their [COVID-19 Private Consultations Excess Respiratory Encounters Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/). These reports tracked excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 and RSV activity across different age groups and provinces.
+* 2022 – 2024, Contributor to the [US CDC FluSight Forecasting Collaboration](https://www.cdc.gov/flu/weekly/flusight/index.html). Submitted weekly short-term forecasts of influenza hospitalizations during the 2022-23 and 2023-24 seasons.
+* 2022 – 2024, Contributor to the [US Influenza Scenario Modeling Hub](https://fluscenariomodelinghub.org/). Submitted long-term scenario projections of influenza hospitalizations during the 2022-23 and 2023-24 seasons.
+* 2020 – 2022, Developed the analysis, wrote the first report, and provided technical support to [South Africa's National Institute for Communicable Diseases](https://www.nicd.ac.za/) for their [COVID-19 Private Consultations Excess Respiratory Encounters Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/). Reports tracked excess respiratory encounters at hospitals, emergency departments, and primary care providers to monitor COVID-19 and RSV activity across different age groups and provinces.
 * 2019 – 2022, Contributor to the US Department of Defense COVID + ILI Forecasting Collaboration. Submitted weekly short-term forecasts of influenza-like illness and COVID-like illness cases on US military bases during the 2019-20, 2020-21, and 2021-22 seasons.
 
 ### Publications and Reports
-* Mathis, S.M., A.E. Webber, ..., **A.C. Perofsky**, ... R.K. Borchering (110 authors). Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. 2023. _medRxiv_, 2023.12.08.23299726. [Preprint](https://doi.org/10.1101/2023.12.08.23299726) (In revision)
-* [COVID-19 Private Consultations Excess Respiratory Encounters Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/), National Institute for Communicable Diseases, South Africa. Reports were updated on a bi-weekly or monthly basis from September 2020 to April 2022.
+* Mathis, S.M., A.E. Webber, ..., **A.C. Perofsky**, ... _et al_. (110 authors) Evaluation of FluSight influenza forecasting in the 2021-22 and 2022-23 seasons with a new target laboratory-confirmed influenza hospitalizations. 2023. _medRxiv_, 2023.12.08.23299726. [Preprint](https://doi.org/10.1101/2023.12.08.23299726) (In revision)
+* [COVID-19 Private Consultations Excess Respiratory Encounters Reports](https://www.nicd.ac.za/diseases-a-z-index/disease-index-covid-19/surveillance-reports/private-consultations-excess-respiratory-encounters/), National Institute for Communicable Diseases, South Africa. Reports were updated on a biweekly or monthly basis from September 2020 to April 2022.
 
 ## Doctoral research: Ecological, evolutionary, and behavioral determinants of gut microbiomes in Malagasy mammals.
 
@@ -96,9 +96,9 @@ Key findings include:
 Together, these findings demonstrate that patterns of gut microbiome composition in wild mammals are scale-dependent: host phylogeny, diet, and substrate use shape microbial variation among sympatric mammal taxa, while social groupings and social contacts constrain the horizontal transmission of gut bacteria within a single host population.
 
 ### Publications
-* **Perofsky, A.C.**,  L. Ancel Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193)
-* **Perofsky, A.C.**, R.J. Lewis, L. Ancel Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
-* **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L. Ancel Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274)
+* **Perofsky, A.C.**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193)
+* **Perofsky, A.C.**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
+* **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274)
 
 {% include gallery id="gallery" class="full" caption="Left: Amanda Perofsky holding a sedated sifaka during the Sifaka Research Project's annual capture in 2016. Right: Sifaka grooming at Ankoatsifaka Research Station in Kirindy Mitea National Park." %}
 
