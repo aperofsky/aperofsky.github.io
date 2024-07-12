@@ -32,7 +32,7 @@ I have also collaborated with members of [Trevor Bedford's group (Fred Hutch)](h
 ### Publications
 * **Perofsky, A.C.**, _et al_. Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years. 2024. _Nature Communications_, 15, 4164. [DOI](https://doi.org/10.1038/s41467-024-48528-2)
 * Paredes, M.I., **A.C. Perofsky**, _et al_. Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county. 2024. _PLOS Pathogens_, 20(3), e1012117. [DOI](https://doi.org/10.1371/journal.ppat.1012117)
-* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission patterns from identical pathogen sequences. 2024. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
+* Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, _et al_. Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences. 2024. _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811)
 * **Perofsky, A.C.**, _et al_. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. 2022. _Clinical Infectious Diseases_, 75(1), e1000-e1010. [DOI](https://doi.org/10.1093/cid/ciac055)
 
 ## Ecological and evolutionary drivers of influenza outbreaks in human and animal populations
