@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amanda C. Perofsky"
+title                    : "Amanda C. Perofsky, PhD"
 title_separator          : "-"
-name                     : "Amanda C. Perofsky"
+name                     : "Amanda C. Perofsky, PhD"
 description              : disease ecologist
 url                      : "https://aperofsky.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
