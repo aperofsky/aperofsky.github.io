@@ -7,7 +7,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Submitted manuscripts
+## Preprints
 
 1. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, A. Wesolowski. Data and model needs for generalizable inferences linking human mobility and infectious disease transmission. [OSF Preprint](https://osf.io/y9mzd/download) (In review)
 
