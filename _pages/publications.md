@@ -32,7 +32,7 @@ author_profile: true
 
 6. **Perofsky, A.C.**, S. Tempia, J. Bingham, C. Maslo, M. Toubkin, A. Laubscher, S. Walaza, J.R.C. Pulliam, C. Viboud, C. Cohen. The direct and indirect effects of the COVID-19 pandemic on private healthcare utilization in South Africa. 2022. _Clinical Infectious Diseases_ 75(1), e1000-e1010. [DOI](https://doi.org/10.1093/cid/ciac055), [Code](https://github.com/aperofsky/South_Africa_Healthcare_Use_during_COVID)
 
-7. **Perofsky, A.C.**,  L. Ancel Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193), [Code](https://github.com/aperofsky/sifaka-temporal-microbiome)
+7. **Perofsky, A.C.**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes. 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193), [Code](https://github.com/aperofsky/sifaka-temporal-microbiome)
 * [UT News article](https://news.utexas.edu/2021/12/03/how-social-dynamics-influence-the-gut-microbes-of-wild-lemurs/)
 
 8. McBride, D.S.†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions. 2021. _The Journal of Infectious Diseases_ jiab122. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
@@ -43,13 +43,13 @@ author_profile: true
 
 11. Viboud, C., K. Gostic, M.I. Nelson, G.E. Price, **A. Perofsky**, K. Sun, N. Sequeira Trovão, B. Cowling, S. Epstein, D.J. Spiro. Beyond Clinical Trials: Evolutionary and Epidemiological Considerations for Development of a Universal Flu Vaccine. 2020. _PLOS Pathogens_ 16:e1008583. [DOI](https://doi.org/10.1371/journal.ppat.1008583)
 
-12. **Perofsky, A.C.**, R.J. Lewis, L. Ancel Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
+12. **Perofsky, A.C.**, R.J. Lewis, L.A. Meyers. Terrestriality and bacterial transfer: A comparative study of gut microbiomes in sympatric Malagasy mammals. 2018. _The ISME Journal_ 13:50–63. [DOI](https://doi.org/10.1038/s41396-018-0251-5) 
 
-13. **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L. Ancel Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274), [Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.qf731)
+13. **Perofsky, A.C.**, R.J. Lewis, L. Abondano, A. Di Fiore, L.A. Meyers. Hierarchical social networks shape gut microbial composition in wild Verreaux’s sifaka. 2017. _Proceedings of the Royal Society B: Biological Sciences_ 284:20172274. [DOI](https://doi.org/10.1098/rspb.2017.2274), [Code](https://datadryad.org/stash/dataset/doi:10.5061/dryad.qf731)
 * [UT News article](https://news.utexas.edu/2017/12/07/gut-microbiome-influenced-heavily-by-social-circles)
 * [Daily Texan article](https://thedailytexan.com/2018/03/28/little-leaping-lemurs-social-lives-influence-what-bacteria-is-found-in-their-digestive/)
 
-14. Rakotomalala,E.J., F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. 2017. _Folia Primatologica_ 88:28-41. [DOI](https://doi.org/10.1159/000464406).
+14. Rakotomalala, E.J., F. Rakotondraparany, **A.C. Perofsky**, R.J. Lewis. Characterization of the tree holes used by _Lepilemur ruficaudatus_ in the dry, deciduous forest of Kirindy Mitea National Park. 2017. _Folia Primatologica_ 88:28-41. [DOI](https://doi.org/10.1159/000464406).
 
 15. Berry, B.S.†, K. Magori†, **A.C. Perofsky**, D.E. Stallknecht, A.W. Park. Wetland cover dynamics drive hemorrhagic disease patterns in white-tailed deer in the United States. 2013. _Journal of Wildlife Diseases_ 49(3):501-509. [DOI](https://doi.org/10.7589/2012-11-283).
 * [UGA Odum School of Ecology news release](https://www.ecology.uga.edu/connections-found-between-wetland-cover-transmission-rates-of-hemorrhagic-disease-in-white-tailed-deer/)
