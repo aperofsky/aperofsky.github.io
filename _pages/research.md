@@ -21,8 +21,6 @@ header:
 ---
 # Research Interests
 
-During my postgraduate training, I have related cellphone mobility to respiratory virus transmission at the city scale, linked the evolutionary and epidemiological dynamics of influenza in the United States, measured the direct and indirect effects of the COVID-19 pandemic on healthcare seeking behavior in South Africa, and characterized the spread of influenza in a network of exhibition swine shows in the US Midwest. For my PhD at UT-Austin, I studied how social networks and proximity to other host species influence the gut microbial communities of wild lemurs in Madagascar.
-
 ## The impact of human mobility on respiratory virus transmission
 
 During the COVID-19 pandemic, aggregated location data from mobile phones became an important source of information on changes in population-level movements and the effectiveness of prevention and control measures in mitigating SARS-CoV-2 spread. I began working with cellphone mobility data in 2020, first to inform forecasts of respiratory virus outbreaks on US military bases for US DoD, and then to retrospectively relate changes in mobility to healthcare-seeking behavior in South Africa and respiratory virus transmission dynamics in Seattle.
