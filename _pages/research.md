@@ -21,7 +21,7 @@ header:
 ---
 # Research Interests
 
-## The impact of human mobility on respiratory virus outbreaks
+## The impact of human mobility on respiratory virus transmission
 
 During the COVID-19 pandemic, aggregated location data from mobile phones became an important source of information on changes in population-level movements and the effectiveness of control strategies in reducing SARS-CoV-2 spread. I began working with cellphone mobility data in 2020, first to inform forecasts of respiratory virus outbreaks on US military bases for US DoD, and then to retrospectively relate changes in mobility to healthcare-seeking behavior in South Africa and respiratory virus transmission dynamics in Seattle.
 
