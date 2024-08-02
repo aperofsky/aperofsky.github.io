@@ -21,11 +21,11 @@ header:
 ---
 # Research Interests
 
-## The impact of human mobility on respiratory virus transmission
+## The impact of human mobility on respiratory virus outbreaks
 
 During the COVID-19 pandemic, aggregated location data from mobile phones became an important source of information on changes in population-level movements and the effectiveness of prevention and control measures in mitigating SARS-CoV-2 spread. I began working with cellphone mobility data in 2020, first to inform forecasts of respiratory virus outbreaks on US military bases for US DoD, and then to retrospectively relate changes in mobility to healthcare-seeking behavior in South Africa and respiratory virus transmission dynamics in Seattle.
 
-### Ongoing research: Mobility behvaior and respiratory virus transmission dynamics in the Seattle metropolitan area
+### Ongoing research: Relationships between population behavior and respiratory virus transmission dynamics in the Seattle metropolitan area
 Although many studies have used cellphone mobility data to model SARS-CoV-2 dynamics, relationships between mobility behavior and the transmission of endemic respiratory pathogens are less understood. As a research scientist for the [Seattle Flu Alliance](https://seattleflu.org/), I studied how population mobility and COVID-19 public health measures influenced the transmission dynamics of SARS-CoV-2 and 17 endemic respiratory viruses in the greater Seattle region during pre- and post-pandemic years (2018 - 2022) ([Perofsky _et al._ 2024](https://doi.org/10.1038/s41467-024-48528-2)). As an extension of this study, we are using data-driven mechanistic transmission models to assess the relative effects of waning immunity and decreased social distancing on the post-pandemic reemergence of RSV in Seattle. I have also worked with members of [Trevor Bedford's group (Fred Hutch)](https://bedford.io/) to relate cellphone mobility patterns to the genomic epidemiology of SARS-CoV-2 in [Seattle-King County](https://doi.org/10.1371/journal.ppat.1012117) and [Washington state](https://doi.org/10.1101/2024.05.24.24307811).
 
 ### Publications and preprints
