@@ -7,11 +7,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+† denotes equal contribution
+
 ## Preprints
 
-1. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, A. Wesolowski. **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (In review)
+1. Srinivas Duddu, A.†, Elgamal, I.†, Camacho-Mateu, J.†, Holubowska, O.†, Rella, S.A.†, Bents, S.J., Viboud, C., Hansen, C.L., Pullano, G., **A.C. Perofsky**. **Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.** _medRxiv_, 2024.09.13.24313667. [Preprint](https://doi.org/10.1101/2024.09.13.24313667) (Report from [Complexity 72h](https://complexity72h.com/) workshop)
 
-2. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, T. Bedford. **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811) (In revision)
+2. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, A. Wesolowski. **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (In review)
+
+3. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, T. Bedford. **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_, 2024.05.24.24307811. [Preprint](https://doi.org/10.1101/2024.05.24.24307811) (In revision)
 
 ## Publications
 
@@ -35,7 +39,7 @@ author_profile: true
 7. **Perofsky, A.C.**,  L.A. Meyers, L.A. Abondano, A. Di Fiore, R.J. Lewis. **Social groups constrain the spatiotemporal dynamics of wild sifaka gut microbiomes.** 2021. _Molecular Ecology_ 30: 6759–6775. [DOI](https://doi.org/10.1111/mec.16193), [Code](https://github.com/aperofsky/sifaka-temporal-microbiome)
 * [UT News article](https://news.utexas.edu/2021/12/03/how-social-dynamics-influence-the-gut-microbes-of-wild-lemurs/)
 
-8. McBride, D.S.†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. **Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions.** 2021. _The Journal of Infectious Diseases_ jiab122. [DOI](https://doi.org/10.1093/infdis/jiab122) †Co-first authors
+8. McBride, D.S.†, **A.C. Perofsky†**, J.M. Nolting, M.I. Nelson, A.S. Bowman. **Tracing the source of influenza A virus zoonoses in interconnected circuits of swine exhibitions.** 2021. _The Journal of Infectious Diseases_ jiab122. [DOI](https://doi.org/10.1093/infdis/jiab122)
 
 9. **Perofsky, A.C.** and M.I. Nelson. **Seasonal influenza: The challenges of vaccine strain selection.** 2020. _eLife_ 9:e62955. [DOI](https://doi.org/10.7554/eLife.62955) (Insight article)
 

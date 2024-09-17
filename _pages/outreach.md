@@ -9,7 +9,11 @@ permalink: /outreach/
 
 ## Training workshops
 
-- 2024: Tutor, [Complexity 72h](https://complexity72h.com/), an interdisciplinary workshop for young researchers in complex systems, Carlos III University of Madrid, Spain. Led and mentored a team of 5 graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses”
+- 2024: Tutor, [Complexity 72h](https://complexity72h.com/), an interdisciplinary workshop for young researchers in complex systems, Carlos III University of Madrid, Spain. Led and mentored a team of five graduate students in carrying out a research project within 3 days (i.e., 72h). Project title: “Impacts of COVID-19 restrictions on mobility networks and the spread of endemic respiratory viruses”
+<figure>
+  <img src="/assets/images/GRL4bzwXsAAuo-R.jpeg" alt="complexity72h">
+  <figcaption> Complexity 72h workshop, Madrid, Spain, June 2024 </figcaption>
+</figure>
 
 - 2018-2019: Co-instructor, Fogarty International Center [training workshops](https://www.fic.nih.gov/About/Staff/multinational-influenza-seasonal-mortality-study-misms) on infectious disease quantitative analysis methods, including time-series modeling, epidemiological modeling, and phylogenetic analysis. 
 
@@ -31,7 +35,7 @@ permalink: /outreach/
 
 ## Science writing
 
-- In 2020 and 2021, I wrote essays for NIH SPDG's science policy blog [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) about [COVID-19 vaccine mandates](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/) and [the role of COVID-19 forecasting models in policy decisions](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/).
+- In 2020 and 2021, I wrote essays for the NIH Science Policy Discussion Group's blog [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) about [COVID-19 vaccine mandates](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/) and [the role of COVID-19 forecasting models in policy decisions](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/).
 
 - In 2016, I wrote about my [field research experiences](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/) for [NSF BEACON's](https://www3.beacon-center.org/) "Researchers at Work" blog series.
 
