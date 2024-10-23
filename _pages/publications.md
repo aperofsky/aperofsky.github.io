@@ -15,7 +15,7 @@ author_profile: true
 
 2. Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download)
 
-3. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_, 2024.05.24.24307811. [DOI](https://doi.org/10.1101/2024.05.24.24307811) | [Code](https://github.com/blab/phylo-kernel-public)
+3. Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _medRxiv_, 2024.05.24.24307811. [DOI](https://doi.org/10.1101/2024.05.24.24307811)
 
 ## Publications
 
