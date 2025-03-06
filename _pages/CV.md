@@ -7,8 +7,8 @@ author_profile: true
 permalink: /CV/
 ---
 
-<script>
-  window.location.href = "https://aperofsky.github.io/markdown-cv/";
-</script>
-
-<p>If you are not redirected, <a href="https://aperofsky.github.io/markdown-cv/">click here</a> to view my CV.</p>
+ <object data="/assets/perofsky_cv_2025_markdown.pdf" type="application/pdf" width="100%" height="800px"> 
+  <p>It appears you don't have a PDF plugin for this browser.
+   You can <a href="/assets/perofsky_cv_2025_markdown.pdf">click here to
+  download the PDF file.</a></p>  
+ </object>

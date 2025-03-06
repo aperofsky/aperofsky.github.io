@@ -12,11 +12,6 @@ header:
 ---
 
 ## Amanda C. Perofsky, PhD
-Research Scientist <br>
-Brotman Baty Institute for Precision Medicine <br>
-University of Washington <br>
-<acperof@uw.edu>
-
 Guest Researcher <br>
 Division of International Epidemiology and Population Studies <br>
 Fogarty International Center <br>
