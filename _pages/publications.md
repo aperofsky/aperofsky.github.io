@@ -9,19 +9,18 @@ author_profile: true
 
 † denotes equal contribution
 
-## Preprints
+## Preprints and Submitted Manuscripts
 
 Elias-Warren, A., J.C. Bennett, ... **A.C. Perofsky**, ... H.Y. Chu. (2025) **Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA.** (Submitted, *JID*)
 
 Hansen, C. L., L. Lee, S.J. Bents, **A.C. Perofsky**, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) **Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.** *medRxiv* 2024.12.13.24319008. [DOI](https://doi.org/10.1101/2024.12.13.24319008). (In revision, *JAMA Network Open*)
 
-Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** [OSF Preprint](https://osf.io/y9mzd/download) (In press, *Nature Human Behavior*)
-
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & **A.C. Perofsky**. (2024) **Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.** _medRxiv_, 2024.09.13.24313667. [DOI](https://doi.org/10.1101/2024.09.13.24313667). ([Complexity 72h](https://complexity72h.com/) report, in prep for submission)
 
 ## Publications
-Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2025) **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _Nature_. [DOI](https://doi.org/10.1101/2024.05.24.24307811). [Code](https://github.com/blab/phylo-kernel-public)
+Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2024) **Data and model needs for generalizable inferences linking human mobility and infectious disease transmission.** _Nature Human Behavior_. [DOI](https://doi.org/10.1038/s41562-025-02151-3). [Code](https://github.com/rcorgel/mobility-commentary)
 
+Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2025) **Fine-scale spatial and social patterns of SARS-CoV-2 transmission from identical pathogen sequences.** _Nature_. [DOI](https://doi.org/10.1101/2024.05.24.24307811). [Code](https://github.com/blab/phylo-kernel-public)
 
 **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) **Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.** _eLife_ 13:RP91849 [DOI](https://doi.org/10.7554/eLife.91849). [Epi Analysis Code](https://github.com/aperofsky/H3N2_Antigenic_Epi), [Phylogenetics Code](https://github.com/blab/perofsky-ili-antigenicity)
 * [_eLife_ press release](https://elifesciences.org/for-the-press/2cf176e8/interactions-between-flu-subtypes-predict-epidemic-severity-more-than-virus-evolution)
