@@ -10,15 +10,26 @@ author_profile: true
 † denotes equal contribution
 
 ## Preprints and Submitted Manuscripts
+<<<<<<< HEAD
 Hansen, C. L., L. Lee, S.J. Bents, **A.C. Perofsky**, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2024) **Scenario projections of RSV hospitalizations averted due to new immunizations in King County, Washington, October 2023 to May 2025.** *medRxiv* 2024.12.13.24319008. [DOI](https://doi.org/10.1101/2024.12.13.24319008). (In press, *JAMA Network Open*)
+=======
+Bents, S.J., E.T. Martin, T. Steven-Ayers, C. Andrews, A. Adler, **A. Perofsky**, E.M. Krantz, R. Blazevic, L. Kimball, R. Prentice, C. Hansen, L. Starita, P. Han, J.A. Englund, N. Wolter, A. von Gottberg, L. Maake, J. Moyes, C. Cohen, M. Boeckh, J.A. Hay, A. Waghmare, C. Viboud. (2025) **Multiplex serology reveals age-specific immunodynamics of endemic respiratory pathogens in the wake of the COVID-19 pandemic.** _medRxiv_, 2025.03.26.25324738. [DOI](https://doi.org/10.1101/2025.03.26.25324738) 
+>>>>>>> 82f11e8 (update pubs)
 
 Elias-Warren, A., J.C. Bennett, ... **A.C. Perofsky**, ... H.Y. Chu. (2025) **Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, WA, USA.** (Submitted, *JID*)
 
 Srinivas Duddu, A.†, I. Elgamal†, J. Camacho-Mateu†, O. Holubowska†, S.A. Rella†, S.J. Bents, C. Viboud, C.L. Hansen, G. Pullano, & **A.C. Perofsky**. (2024) **Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington.** _medRxiv_, 2024.09.13.24313667. [DOI](https://doi.org/10.1101/2024.09.13.24313667). ([Complexity 72h](https://complexity72h.com/) report, in prep for submission)
 
 ## Publications
+<<<<<<< HEAD
 Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2025) **Improving mobility data for infectious disease research.** _Nature Human Behaviour_. [DOI](https://doi.org/10.1038/s41562-025-02151-3). [Code](https://github.com/rcorgel/mobility-commentary)
 
+=======
+Hansen, C. L., L. Lee, S.J. Bents, **A.C. Perofsky**, K. Sun, L.M. Starita, A. Adler, J.A. Englund, E.J. Chow, H.Y. Chu, & C. Viboud. (2025) **Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations.** *JAMA Network Open* 8(6):e2514622. [DOI](https://doi.org/10.1001/jamanetworkopen.2025.14622).
+
+Kostandova, N., R. Corgel, S. Bansal, S. Bérubé, E. Cleary, C. Hansen, M.D.T. Hitchings, B. García-Carreras, L. Gardner, M.U.G. Kraemer, S. Lai, Y. Li, **A.C. Perofsky**, G. Pullano, J.M. Read, G. Ribeiro dos Santos, H. Salje, S. Takahashi, C. Viboud, J. Wang, D.A.T. Cummings, & A. Wesolowski. (2025) **Improving mobility data for infectious disease research.** _Nature Human Behaviour_. [DOI](https://doi.org/10.1038/s41562-025-02151-3). [Code](https://github.com/rcorgel/mobility-commentary)
+
+>>>>>>> 82f11e8 (update pubs)
 Tran-Kiem, C., M.I. Paredes, **A.C. Perofsky**, L.A. Frisbie, H. Xie, K. Kong, A. Weixler, A.L. Greninger, P. Roychoudhury, J.M. Peterson, A. Delgado, H. Halstead, D. MacKellar, P. Dykema, L. Gamboa, C.D. Frazar, E. Ryke, J. Stone, D. Reinhart, L. Starita, A. Thibodeau, C. Yun, F. Aragona, A. Black, C. Viboud, & T. Bedford. (2025) **Fine-scale patterns of SARS-CoV-2 spread from identical pathogen sequences.** _Nature_ 640, 176-185. [DOI](https://doi.org/10.1038/s41586-025-08637-4). [Code](https://github.com/blab/phylo-kernel-public)
 
 **Perofsky, A.C.**, J. Huddleston, C. Hansen, J.R. Barnes, T. Rowe, X. Xu, R. Kondor, D.E. Wentworth, N. Lewis, L. Whittaker, B. Ermetal, R. Harvey, M. Galiano, R. Stuart Daniels, J.W. McCauley, S. Fujisaki, K. Nakamura, N. Kishida, S. Watanabe, H. Hasegawa, S.G. Sullivan, I.G. Barr, K. Subbarao, F. Krammer, T. Bedford, & C. Viboud. (2024) **Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States.** _eLife_ 13:RP91849 [DOI](https://doi.org/10.7554/eLife.91849). [Epi Analysis Code](https://github.com/aperofsky/H3N2_Antigenic_Epi), [Phylogenetics Code](https://github.com/blab/perofsky-ili-antigenicity)
