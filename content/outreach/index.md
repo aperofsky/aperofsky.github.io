@@ -34,4 +34,4 @@ title: "STEM Outreach and Education"
 
 In 2020 and 2021, I wrote essays for the NIH Science Policy Discussion Group's blog [Science Policy for All](https://www.linkedin.com/in/scipolicyforall/) about [COVID-19 vaccine mandates](https://sciencepolicyforall.wordpress.com/2021/06/10/can-the-united-states-achieve-herd-immunity-vaccine-mandates-and-other-policies-to-increase-covid-19-vaccination/) and [the role of COVID-19 forecasting models in policy decisions](https://sciencepolicyforall.wordpress.com/2020/05/22/the-use-of-covid-19-prediction-models-in-guiding-policy-decisions/).
 
-In 2016, I wrote about my [field research experiences](https://www3.beacon-center.org/blog/2016/03/14/how-lemur-social-networks-shape-microbial-transmission/) for [NSF BEACON's](https://www3.beacon-center.org/) "Researchers at Work" blog series.
+In 2016, I wrote about my field research experiences for [NSF BEACON's](https://www.nsf.gov/funding/opportunities/beacon-biocomputational-evolution-action-consortium) "Researchers at Work" blog series.

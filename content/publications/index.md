@@ -6,7 +6,7 @@ title: "Publications"
 
 ## Preprints and Submitted Manuscripts
 
-* [Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups](https://doi.org/10.1101/XXXX) (*medRxiv*, 2025)  
+* [Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups](https://doi.org/10.1101/2025.08.07.25333239) (*medRxiv*, 2025)  
   Tran-Kiem C, **Perofsky AC**, Lessler J, Bedford T.  
   → In press, *Proc R Soc B*
 
@@ -22,10 +22,10 @@ title: "Publications"
 
 ## Publications
 
-* [Multiplex serology reveals age-specific immunodynamics of respiratory pathogens in the wake of the COVID-19 pandemic](https://doi.org/10.1038/s41467-025-56267-5) (*Nat Commun*, 2025)  
+* [Multiplex serology reveals age-specific immunodynamics of respiratory pathogens in the wake of the COVID-19 pandemic](https://doi.org/10.1038/s41467-025-65957-9) (*Nat Commun*, 2025)  
   Bents SJ, Martin ET, Stevens-Ayers T, ... **Perofsky AC**, ... Viboud C.
 
-* [Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, Washington, USA](https://doi.org/10.1093/infdis/jiaf002) (*J Infect Dis*, 2025)  
+* [Epidemiology of Human Metapneumovirus Infection in a Community Setting, Seattle, Washington, USA](https://doi.org/10.1093/infdis/jiaf142) (*J Infect Dis*, 2025)  
   Elias-Warren A, Bennett JC, Iwu CD, ... **Perofsky AC**, ... Chu HY.
 
 * [Scenario Projections of Respiratory Syncytial Virus Hospitalizations Averted Due to New Immunizations](https://doi.org/10.1001/jamanetworkopen.2025.14622) (*JAMA Netw Open*, 2025)  
