@@ -1,0 +1,36 @@
+baseURL = "https://aperofsky.github.io/"
+languageCode = "en-us"
+title = "Amanda C. Perofsky, PhD"
+theme = "hugo-theme-console"
+
+[params]
+  description = "Infectious disease ecologist"
+
+[[params.navlinks]]
+  name = "Home"
+  url = "/"
+
+[[params.navlinks]]
+  name = "Research"
+  url = "/research/"
+
+[[params.navlinks]]
+  name = "Publications"
+  url = "/publications/"
+
+[[params.navlinks]]
+  name = "CV"
+  url = "/cv/"
+
+[[params.navlinks]]
+  name = "Outreach"
+  url = "/outreach/"
+
+[[params.navlinks]]
+  name = "About"
+  url = "/about/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
