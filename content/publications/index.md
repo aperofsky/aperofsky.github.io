@@ -6,21 +6,30 @@ title: "Publications"
 
 ## Preprints and Submitted Manuscripts
 
-* [Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups](https://doi.org/10.1101/2025.08.07.25333239) (*medRxiv*, 2025)  
-  Tran-Kiem C, **Perofsky AC**, Lessler J, Bedford T.  
-  → In press, *Proc R Soc B*
+* [Adaptive multi-model ensembles for improved epidemic projections and decision support](https://doi.org/10.64898/2026.06.26.26356648) (*medRxiv*, 2026)
+  Fiandrino S, Paolotti, D, Bay C, ... **Perofsky AC**, ... Vespignani A.
+  → In press, *Nature Commun*
 
-* Clinical and genomic epidemiology of influenza viruses before and during the COVID-19 pandemic, Seattle, Washington USA. (In review)  
-  Iwu CD, Elias-Warren A, Bennett JC, ... **Perofsky AC**, ... Chu HY.
+* RSV Molecular Epidemiology Pre- and Post-COVID-19 Pandemic Periods in Seattle, Washington, USA.
+  Roychoudhury P, Bennett JC, Elias-Warren A, ... **Perofsky AC**, ... Chu HY.
+  → In press, *Influenza Other Respir Viruses*
 
-* RSV Molecular Epidemiology Pre- and Post-COVID-19 Pandemic Periods in Seattle, Washington, USA. (In review)  
-  Bennett JC, Elias-Warren A, Wetzler E, ... **Perofsky AC**, ... Chu HY.
+* [Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States](https://doi.org/10.64898/2026.08.31.26361843) (*medRxiv*, 2026)
+Davis JT, Kaur G, Hines A, ... **Perofsky AC**, ... Vespignani A.
+→ Under review
+
+* [Phylodynamic Analysis of the Global Dispersal and Spatiotemporal Dynamics of HIV-1 Subtype C]() *bioRxiv*. 2026; 2026.06.03.729861. (*medRxiv*, 2026)
+Li X, Tamim S, Dudas G, **Perofsky A†**, Trovão NS†.
+→ Under review
 
 * [Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington](https://doi.org/10.1101/2024.09.13.24313667) (*medRxiv*, 2024)  
   Srinivas Duddu A†, Elgamal I†, Camacho-Mateu J†, ... **Perofsky AC**.  
   → [Complexity 72h](https://complexity72h.com/) report · Manuscript in prep
 
 ## Publications
+
+* [Characterizing the informativeness of pathogen genome sequence datasets about transmission between population groups](https://doi.org/10.1098/rspb.2025.2983) (*Proc R Soc B*, 2026)  
+  Tran-Kiem C, **Perofsky AC**, Lessler J, Bedford T.
 
 * [Multiplex serology reveals age-specific immunodynamics of respiratory pathogens in the wake of the COVID-19 pandemic](https://doi.org/10.1038/s41467-025-65957-9) (*Nat Commun*, 2025)  
   Bents SJ, Martin ET, Stevens-Ayers T, ... **Perofsky AC**, ... Viboud C.
