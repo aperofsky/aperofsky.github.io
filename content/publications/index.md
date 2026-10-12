@@ -15,14 +15,14 @@ title: "Publications"
   → In press, *Influenza Other Respir Viruses*
 
 * [Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States](https://doi.org/10.64898/2026.08.31.26361843) (*medRxiv*, 2026)
-Davis JT, Kaur G, Hines A, ... **Perofsky AC**, ... Vespignani A.
+  Davis JT, Kaur G, Hines A, ... **Perofsky AC**, ... Vespignani A.
 → Under review
 
 * [Phylodynamic Analysis of the Global Dispersal and Spatiotemporal Dynamics of HIV-1 Subtype C]() *bioRxiv*. 2026; 2026.06.03.729861. (*medRxiv*, 2026)
-Li X, Tamim S, Dudas G, **Perofsky A†**, Trovão NS†.
+  Li X, Tamim S, Dudas G, **Perofsky A†**, Trovão NS†.
 → Under review
 
-* [Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington](https://doi.org/10.1101/2024.09.13.24313667) (*medRxiv*, 2024)  
+* [Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington](https://doi.org/10.1101/2024.09.13.24313667) (*medRxiv*, 2024)
   Srinivas Duddu A†, Elgamal I†, Camacho-Mateu J†, ... **Perofsky AC**.  
   → [Complexity 72h](https://complexity72h.com/) report · Manuscript in prep
 
