@@ -15,12 +15,10 @@ title: "Publications"
   → In press, *Influenza Other Respir Viruses*
 
 * [Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States](https://doi.org/10.64898/2026.08.31.26361843) (*medRxiv*, 2026)
-  Davis JT, Kaur G, Hines A, ... **Perofsky AC**, ... Vespignani A.
-→ Under review
+  Davis JT, Kaur G, Hines A, ... **Perofsky AC**, ... Vespignani A. Under review.
 
 * [Phylodynamic Analysis of the Global Dispersal and Spatiotemporal Dynamics of HIV-1 Subtype C]() *bioRxiv*. 2026; 2026.06.03.729861. (*medRxiv*, 2026)
-  Li X, Tamim S, Dudas G, **Perofsky A†**, Trovão NS†.
-→ Under review
+  Li X, Tamim S, Dudas G, **Perofsky A†**, Trovão NS†. Under review.
 
 * [Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington](https://doi.org/10.1101/2024.09.13.24313667) (*medRxiv*, 2024)
   Srinivas Duddu A†, Elgamal I†, Camacho-Mateu J†, ... **Perofsky AC**.  
@@ -48,14 +46,14 @@ title: "Publications"
 
 * [Antigenic drift and subtype interference shape A(H3N2) epidemic dynamics in the United States](https://doi.org/10.7554/eLife.91849) (*eLife*, 2024)  
   **Perofsky AC**, Huddleston J, Hansen CL, ... Viboud C.  
-  → [*eLife* podcast](https://elifesciences.org/podcast/episode92#1373) · [Press release](https://elifesciences.org/for-the-press/2cf176e8/)
+  → [*eLife* podcast](https://elifesciences.org/podcast/episode92#1373) · [eLife press release](https://elifesciences.org/for-the-press/2cf176e8/) · [NIH Fogarty *Global Health Matters* highlight](https://www.fic.nih.gov/News/GlobalHealthMatters/march-april-2024/Pages/charting-evolutionary-course-of-influenza.aspx)
 
 * [Evaluation of FluSight influenza forecasting in the 2021–22 and 2022–23 seasons with a new target laboratory-confirmed influenza hospitalizations](https://doi.org/10.1038/s41467-024-50601-9) (*Nat Commun*, 2024)  
   Mathis SM, Webber AE, ... **Perofsky AC**, ... Borchering RK.
 
 * [Impacts of human mobility on the citywide transmission dynamics of 18 respiratory viruses in pre- and post-COVID-19 pandemic years](https://doi.org/10.1038/s41467-024-48528-2) (*Nat Commun*, 2024)  
   **Perofsky AC**, Hansen CL, Burstein R, ... Viboud C.  
-  → [UW Medicine news](https://newsroom.uw.edu/news-releases/study-tracks-effects-of-mobility-on-respiratory-virus-spread) · Editors' Highlights for "Public Health"
+  → [UW Medicine news](https://newsroom.uw.edu/news-releases/study-tracks-effects-of-mobility-on-respiratory-virus-spread) · *Nature Communications* Editors' Highlights for "Public Health"
 
 * [Local-scale phylodynamics reveal differential community impact of SARS-CoV-2 in a metropolitan US county](https://doi.org/10.1371/journal.ppat.1012117) (*PLOS Pathog*, 2024)  
   Paredes MI, **Perofsky AC**, Frisbie L, ... Bedford T.
