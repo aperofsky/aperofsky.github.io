@@ -7,11 +7,11 @@ title: "Publications"
 ## Preprints and Submitted Manuscripts
 
 * [Adaptive multi-model ensembles for improved epidemic projections and decision support](https://doi.org/10.64898/2026.06.26.26356648) (*medRxiv*, 2026)
-  Fiandrino S, Paolotti, D, Bay C, ... **Perofsky AC**, ... Vespignani A.
+  Fiandrino S, Paolotti, D, Bay C, ... **Perofsky AC**, ... Vespignani A.  
   → In press, *Nature Commun*
 
 * RSV Molecular Epidemiology Pre- and Post-COVID-19 Pandemic Periods in Seattle, Washington, USA.
-  Roychoudhury P, Bennett JC, Elias-Warren A, ... **Perofsky AC**, ... Chu HY.
+  Roychoudhury P, Bennett JC, Elias-Warren A, ... **Perofsky AC**, ... Chu HY.  
   → In press, *Influenza Other Respir Viruses*
 
 * [Multi-season evaluation and analysis of categorical trend forecasts of influenza hospital admissions in the United States](https://doi.org/10.64898/2026.08.31.26361843) (*medRxiv*, 2026)
